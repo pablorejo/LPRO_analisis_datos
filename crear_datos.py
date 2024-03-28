@@ -43,7 +43,7 @@ def generar_punto_aleatorio_en_parcela(anomalia: bool,poligono_parcela, punto_an
                 if poligono_parcela.contains(punto_aleatorio):
                     return (punto_aleatorio.x, punto_aleatorio.y)
             
-columnas = ['Numero pendiente', 'longitude', 'latitude', 'fecha', 'anomalia']
+columnas = ['Numero pendiente', 'latitude', 'longitude', 'fecha', 'anomalia']
 df = pd.DataFrame(columns=columnas)  # Define las columnas de tu DataFrame
 
 for parcela in  tqdm(parcelas, desc="Procesando parcelas"):

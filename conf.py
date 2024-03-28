@@ -11,6 +11,7 @@ numero_de_vacas = 10
 
 # Aquí vamos a definir las esquinas de las parcelas.
 parcelas = [
+    # (longitude,latitude)
     [
     (42.22259255448751, -7.7482447028160095),
     (42.222553573687755, -7.7482423558831215),

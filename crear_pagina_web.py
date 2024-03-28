@@ -5,12 +5,11 @@ from folium.plugins import HeatMap
 from conf import *
 
 def crar_figura_mapa(mapa: folium.Map,parcela: list):
-    # Definir las coordenadas de las esquinas del rectángulo que deseas
-    # Estas deben ser (latitud, longitud) de los puntos superior izquierdo e inferior derecho
     
-    # Crear un rectángulo
-    folium.Figure(
-        bounds=[parcela],
+    # Asegurándonos de que 'parcela' es una lista de tuplas (lat, lon)
+    # y usamos folium.Polygon para parcelas de terreno con múltiples esquinas
+    folium.Polygon(
+        locations=parcela,  # Lista de puntos que definen la parcela
         color='#ff7800',
         fill=True,
         fill_color='#ffff00',
@@ -36,7 +35,7 @@ crar_figura_mapa(mapa,parcelas[0])
 # Agrupa el DataFrame por 'Numero_pendiente'
 colores = ['red', 'blue']
 i = 0
-for _, group in df.groupby('Numero_pendiente'):
+for _, group in df.groupby('Numero pendiente'):
     puntos = group[['latitude', 'longitude']].values
     # Añade los puntos al mapa
     folium.PolyLine(puntos, color=generar_color_aleatorio(), weight=2.5, opacity=1).add_to(mapa)
@@ -49,7 +48,7 @@ for _, group in df.groupby('Numero_pendiente'):
 mapa.save('mapa_de_posicion.html')
 
 mapa = folium.Map(location=[df['latitude'].mean(), df['longitude'].mean()], zoom_start=12)
-crar_figura_mapa(mapa)
+crar_figura_mapa(mapa,parcelas[0])
 # Crear el mapa de calor
 HeatMap(data=df[['latitude', 'longitude']].values, radius=15).add_to(mapa)
 

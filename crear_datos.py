@@ -4,6 +4,7 @@ from shapely.geometry import Point, Polygon
 from conf import *
 import pandas as pd
 from tqdm import tqdm
+from datetime import datetime, timedelta
 
 def next_date():
     global fecha_inicial

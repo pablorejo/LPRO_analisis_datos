@@ -2,13 +2,13 @@ from datetime import datetime, timedelta
 
 # Función para generar una fecha aleatoria dentro del último año
 fecha_inicial = datetime.now() - timedelta(days=30)
-minutos = 5
-rango = 100
-sigma = 0.001
-probabilidad_anomalia = 0.01
-sigma_anomalia = 0.004
-numero_de_vacas = 10
-
+minutos = 5 # El tiempo que se tarda en obtener un dato y otro
+rango = 100 # El numero de puntos por vaca y por parcela
+sigma = 0.001 # El nivel de movimiento que tiene una vaca, usa la funcion normal para obtener el siguiente punto
+probabilidad_anomalia = 0.01 # Probabilidad con la que una vaca va a tener una anomalia
+sigma_anomalia = 0.004 # El nivel de movimiento de la anomalia
+numero_de_vacas = 10 # Número de vacas que se van a crear
+PARA_SQL =  True # Si se quiere guardar en un fichero para pasarlo a sql.
 # Aquí vamos a definir las esquinas de las parcelas.
 parcelas = [
     # (longitude,latitude)
@@ -39,5 +39,14 @@ parcelas = [
     (42.222786464987315, -7.748439833521842),
     (42.22270055848854, -7.748388200998306),
     (42.222660088045444, -7.748359031975268),
-    (42.22266828145012, -7.748302705585957)]
+    (42.22266828145012, -7.748302705585957)],
+    
+    [(42.1708749220415 ,  -8.684778213500977),
+     (42.17088784344455 ,  -8.683796525001526),
+     (42.171329902931646 ,  -8.683318421244621),
+     (42.171783638124204 ,   -8.68295531719923),
+     (42.17215164330223 ,  -8.682750463485718),
+     (42.17232210277389 ,  -8.683327473700047),
+     (42.17273135272034 ,  -8.684871755540371),
+     (42.17178438357912 ,   -8.68525430560112)]
 ]

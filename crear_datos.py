@@ -59,23 +59,39 @@ for parcela in  tqdm(parcelas, desc="Procesando parcelas"):
         
             # Generar 5 puntos aleatorios dentro de la parcela
             anomalia = False
-            if probabilidad_anomalia < random():
+            if probabilidad_anomalia > random():
                 anomalia = True
             
             puntos_aleatorios = generar_punto_aleatorio_en_parcela(anomalia,poligono_parcela,punto_anterior=punto_anterior) 
             
             if (not anomalia):
                 punto_anterior = puntos_aleatorios
-                
+            
+           
             new_row = {
                         columnas[0]: numero_pendiente,
                         columnas[1]: puntos_aleatorios[0],
                         columnas[2]: puntos_aleatorios[1],
-                        columnas[3]: next_date(),
-                        columnas[4]: anomalia
-                      }
+                        columnas[3]: next_date()
+                    }
+            
             df = pd.concat([df, pd.DataFrame([new_row], dtype="object")], ignore_index=True)
             
 df = df[columnas]
 df.to_csv('datos.csv',index=False)
-            
+
+if(PARA_SQL):
+    with open('datos.sql','w') as file:
+        file.write("""USE muundoGando
+INSERT INTO gps (Numero_pendiente,IdUsuario,latitud, longitud,fecha)
+VALUES 
+""")
+        
+        for indice_fila in range(0,len(df)):
+            fila = df.iloc[indice_fila]
+            fecha = f"'{str(fila['fecha']).split('.')[0]}'"
+            nuermo_pendiente = int(fila['Numero pendiente']) +1000
+            if (indice_fila == len(df)-1):
+                file.write(f"({nuermo_pendiente},1,{fila['latitude']},{fila['longitude']},{fecha});\n")
+            else:
+                file.write(f"({nuermo_pendiente},1,{fila['latitude']},{fila['longitude']},{fecha}),\n")

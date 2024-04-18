@@ -1,52 +1,44 @@
 from datetime import datetime, timedelta
-
+from os import path, mkdir
 # Función para generar una fecha aleatoria dentro del último año
 fecha_inicial = datetime.now() - timedelta(days=30)
-minutos = 5 # El tiempo que se tarda en obtener un dato y otro
-rango = 100 # El numero de puntos por vaca y por parcela
-sigma = 0.001 # El nivel de movimiento que tiene una vaca, usa la funcion normal para obtener el siguiente punto
-probabilidad_anomalia = 0.01 # Probabilidad con la que una vaca va a tener una anomalia
-sigma_anomalia = 0.004 # El nivel de movimiento de la anomalia
-numero_de_vacas = 10 # Número de vacas que se van a crear
+
+VERBOSE = True
+
+PORCENTAJE_DE_TIEMPO_CAMINANDO = 0.2
+SIGMA_CAMINANDO = 0.00005 # El nivel de movimiento que tiene una vaca, usa la funcion normal para obtener el siguiente punto
+VELOCIDAD_CAMINANDO = 1/2
+
+
+PORCENTAJE_DE_TIEMPO_PASTANDO = 0.2
+SIGMA_PASTANDO = 0.005 # El nivel de movimiento que tiene una vaca, usa la funcion normal para obtener el siguiente punto
+VELOCIDAD_PASTANDO = 1/25
+
+PORCENTAJE_DE_TIEMPO_DESCANSANDO = 1 - PORCENTAJE_DE_TIEMPO_CAMINANDO -PORCENTAJE_DE_TIEMPO_PASTANDO
+SIGMA_DESCANSANDO = 0.005 # El nivel de movimiento que tiene una vaca, usa la funcion normal para obtener el siguiente punto
+VELOCIDAD_DESCANSANDO = 1/50
+
+
+MINUTOS = 0.1 # El tiempo que se tarda en obtener un dato y otro
+RANGO = 10 # El numero de puntos por vaca y por parcela
+PROBABILIDAD_ANOMALIA = 0.001 # Probabilidad con la que una vaca va a tener una anomalia
+SIGMA_ANOMALIA = 0.0001 # El nivel de movimiento de la anomalia
+NUMERO_DE_VACAS = 10 # Número de vacas que se van a crear
 PARA_SQL =  True # Si se quiere guardar en un fichero para pasarlo a sql.
 # Aquí vamos a definir las esquinas de las parcelas.
-parcelas = [
-    # (longitude,latitude)
-    [
-    (42.22259255448751, -7.7482447028160095),
-    (42.222553573687755, -7.7482423558831215),
-    (42.22215234316532, -7.7485715970396996),
-    (42.221494627468, -7.748884409666061),
-    (42.22124211645043, -7.74941984564066),
-    (42.22116738094084, -7.749530151486396),
-    (42.221308410001186, -7.749596200883389),
-    (42.22169027936151, -7.74977456778288),
-    (42.221911504312814, -7.749478183686733),
-    (42.222280707415514, -7.7498047426342955),
-    (42.22191771151127, -7.750540003180505),
-    (42.22198524579101, -7.750600352883338),
-    (42.222033413578735, -7.750500775873661),
-    (42.22217245440937, -7.750652991235255),
-    (42.22223427782323, -7.750729098916055),
-    (42.222440852003956, -7.750732451677322),
-    (42.22248926772979, -7.750282175838947),
-    (42.2226518946397, -7.7499985322356215),
-    (42.222719179849356, -7.74979367852211),
-    (42.22287882675738, -7.749067470431329),
-    (42.22298161631033, -7.748790867626667),
-    (42.22292103504818, -7.7486688271164885),
-    (42.22286889539073, -7.7485595270991325),
-    (42.222786464987315, -7.748439833521842),
-    (42.22270055848854, -7.748388200998306),
-    (42.222660088045444, -7.748359031975268),
-    (42.22266828145012, -7.748302705585957)],
-    
-    [(42.1708749220415 ,  -8.684778213500977),
-     (42.17088784344455 ,  -8.683796525001526),
-     (42.171329902931646 ,  -8.683318421244621),
-     (42.171783638124204 ,   -8.68295531719923),
-     (42.17215164330223 ,  -8.682750463485718),
-     (42.17232210277389 ,  -8.683327473700047),
-     (42.17273135272034 ,  -8.684871755540371),
-     (42.17178438357912 ,   -8.68525430560112)]
-]
+
+CARPETA_DATOS_CSV = 'datos_csv'
+
+if (not path.exists(CARPETA_DATOS_CSV)):
+    mkdir = CARPETA_DATOS_CSV
+
+FICHERO_DATOS_PARCELA = 'parcelas.csv'
+FICHERO_DATOS_ENFERMEDADES = 'enfermedades.csv'
+FICHERO_DATOS_PARTOS = 'partos.csv'
+FICHERO_DATOS_VACAS = 'vacas.csv'
+FICHERO_DATOS_DATOS = 'datos.csv'
+FICHERO_DATOS_DATOS_PROCESADOS = 'datos_procesados.csv'
+FICHERO_DATOS_ANOMALIAS = 'anomalias.csv'
+
+
+PONER_ANOMALIAS = False

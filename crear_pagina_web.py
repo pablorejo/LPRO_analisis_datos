@@ -35,7 +35,7 @@ crar_figura_mapa(mapa,parcelas[0])
 # Agrupa el DataFrame por 'Numero_pendiente'
 colores = ['red', 'blue']
 i = 0
-for _, group in df.groupby('Numero pendiente'):
+for _, group in df.groupby('Numero_pendiente'):
     puntos = group[['latitude', 'longitude']].values
     # Añade los puntos al mapa
     folium.PolyLine(puntos, color=generar_color_aleatorio(), weight=2.5, opacity=1).add_to(mapa)

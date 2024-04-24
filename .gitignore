@@ -2,3 +2,6 @@ env
 .vscode
 __pycache__
 datos.csv
+mapa_de_calor.html
+mapa_de_posicion.html
+datos_csv

@@ -9,8 +9,8 @@ import numpy as np
 from os import path
 def next_date():
     global fecha_inicial
-    global minutos
-    fecha_inicial = fecha_inicial + timedelta(minutes=minutos)
+    global MINUTOS
+    fecha_inicial = fecha_inicial + timedelta(minutes=MINUTOS)
     return fecha_inicial
 
 
@@ -29,7 +29,7 @@ def pasar_a_grados(dms):
 
 def generar_punto_con_velocidad(punto_anterior, velocidad):
     # Calcular la distancia basada en la velocidad y el intervalo de tiempo
-    distancia = velocidad * minutos * 60  # en metros
+    distancia = velocidad * MINUTOS * 60  # en metros
     
     # Generar un ángulo aleatorio en radianes
     angulo = np.random.uniform(0, 2 * np.pi)
@@ -44,19 +44,20 @@ def generar_punto_con_velocidad(punto_anterior, velocidad):
     
     
     # Nuevo punto
-    nuevo_punto_x = punto_anterior[0] + delta_x
-    nuevo_punto_y = punto_anterior[1] + delta_y
+    nuevo_punto_x = punto_anterior[0] + choices([delta_x, -delta_x])
+    nuevo_punto_y = punto_anterior[1] + choices([delta_y, -delta_y])
     
-    return Point(nuevo_punto_x, nuevo_punto_y)
+    return Point(nuevo_punto_x[0], nuevo_punto_y[0])
 
-def generar_punto_aleatorio_en_parcela(anomalia: bool,poligono_parcela, punto_anterior:tuple=(0,0)):
+def generar_punto_aleatorio_en_parcela(anomalia: bool,poligono_parcela,punto_inicial, punto_anterior:tuple=(0,0)):
     min_x, min_y, max_x, max_y = poligono_parcela.bounds
+
     if (punto_anterior == (0,0)):
         while True:
-            punto_aleatorio = Point(uniform(min_x, max_x),uniform(min_y, max_y))
-            if poligono_parcela.contains(punto_aleatorio):
-                return (punto_aleatorio.x, punto_aleatorio.y)
-        
+            random_point = Point(uniform(min_x, max_x), uniform(min_y, max_y))  # Generar un punto aleatorio
+            if poligono_parcela.contains(random_point):  # Verificar si el polígono contiene el punto
+                return (random_point.x, random_point.y)
+            
     elif (anomalia):
         punto_aleatorio = Point(gauss(punto_anterior[0],SIGMA_ANOMALIA), gauss(punto_anterior[1],SIGMA_ANOMALIA))
         return (punto_aleatorio.x, punto_aleatorio.y)
@@ -114,7 +115,6 @@ def generar_datos_vacas(n):
     
     # Notas y minPastoVaca
     notas = np.random.choice(['Vaca líder', 'Salud excelente', 'Requiere atención', None], size=n, p=[0.25, 0.25, 0.25, 0.25])
-    min_pasto_vaca = np.random.randint(100, 1000, size=n)
     
     # Crear DataFrame
     df = pd.DataFrame({
@@ -123,8 +123,7 @@ def generar_datos_vacas(n):
         'Fecha_nacimiento': fechas_nacimiento,
         'idNumeroPendienteMadre': id_numero_pendiente_madre,
         'idUsuarioMadre': id_usuario_madre,
-        'nota': notas,
-        'minPastoVaca': min_pasto_vaca
+        'nota': notas
     })
     
     return df
@@ -203,48 +202,38 @@ def generar_datos_partos(n,id_vacas):
     
     return df_partos
 
+def es_valido(poligono, otros_poligonos):
+    for otro in otros_poligonos:
+        if poligono.intersects(otro):
+            return False
+    return True
 
+def generar_puntos_poligono_convexo(centro, num_puntos, radio_max):
+    angulos = np.linspace(0, 2 * np.pi, num_puntos, endpoint=False)
+    radios = np.random.uniform(0, radio_max, num_puntos)
+    puntos = [(centro[0] + r * np.cos(a), centro[1] + r * np.sin(a)) for r, a in zip(radios, angulos)]
+    poligono = Polygon(puntos)
+    return poligono
 
-def generar_datos_parcelas(n_parcelas):
-    np.random.seed(0)  # Para reproducibilidad
+def generar_datos_parcelas(n_parcelas, espacio_disponible):
+    poligonos = []
+    datos_parcelas = []
 
-    # Datos iniciales
-    id_parcelas = np.arange(1, n_parcelas + 1)
-    latitude_inicial = 42.0  # Punto de inicio para latitudes (e.g., algún lugar en el norte de España)
-    longitude_inicial = -3.0  # Punto de inicio para longitudes
-
-    # Arrays para almacenar datos
-    id_parcela_array = []
-    latitudes = []
-    longitudes = []
-
-    # Tamaño máximo en grados para la variabilidad de las coordenadas
-    max_lat_variation = 0.01  # Aproximadamente 1.11 km
-    max_lon_variation = 0.01  # Aproximadamente 1.11 km en la latitud dada
-
-
-    # Generar puntos para cada parcela
-    for parcela in id_parcelas:
-        # Generar un punto central aleatorio para cada parcela
-        centro_lat = latitude_inicial + np.random.uniform(-0.05, 0.05)
-        centro_lon = longitude_inicial + np.random.uniform(-0.05, 0.05)
-        n_puntos_por_parcela = np.random.randint(5,11)
-        # Generar puntos alrededor del centro
-        for _ in range(n_puntos_por_parcela):
-            lat = centro_lat + np.random.uniform(-max_lat_variation, max_lat_variation)
-            lon = centro_lon + np.random.uniform(-max_lon_variation, max_lon_variation)
-            id_parcela_array.append(parcela)
-            latitudes.append(lat)
-            longitudes.append(lon)
-
-    # Crear DataFrame
-    df_coordenadas = pd.DataFrame({
-        'id_parcela': id_parcela_array,
-        'latitude': latitudes,
-        'longitude': longitudes
-    })
-
-    return df_coordenadas
+    for _ in range(n_parcelas):
+        valido = False
+        while not valido:
+            centro = (
+                np.random.uniform(espacio_disponible['min_lat'], espacio_disponible['max_lat']),
+                np.random.uniform(espacio_disponible['min_lon'], espacio_disponible['max_lon'])
+            )
+            poligono = generar_puntos_poligono_convexo(centro, num_puntos=np.random.randint(4, 10), radio_max=0.01)
+            
+            if es_valido(poligono, poligonos):
+                poligonos.append(poligono)
+                datos_parcelas.extend([{'id_parcela': len(poligonos), 'latitude': p[1], 'longitude': p[0]} for p in poligono.exterior.coords])
+                valido = True
+    
+    return pd.DataFrame(datos_parcelas)
 
 
 def generar_coordenadas_gps(vacas_id,parcelas):
@@ -254,9 +243,10 @@ def generar_coordenadas_gps(vacas_id,parcelas):
     id = 1
     for parcela in  tqdm(parcelas, desc="Procesando parcelas"):
         poligono_parcela = Polygon(parcela)
-        # Calcular el bounding box de la parcela
         min_x, min_y, max_x, max_y = poligono_parcela.bounds
-
+        poligono_parcela
+        punto_inicial = Point(uniform(min_x, max_x),uniform(min_y, max_y))
+             
         for numero_pendiente in tqdm(vacas_id, desc="Numero_pendiente", leave=False):
             fecha_inicial = datetime.now() - timedelta(days=30)
             punto_anterior = (0,0)
@@ -267,14 +257,13 @@ def generar_coordenadas_gps(vacas_id,parcelas):
                 if PROBABILIDAD_ANOMALIA > random():
                     anomalia = True
                 
-                puntos_aleatorios = generar_punto_aleatorio_en_parcela(anomalia,poligono_parcela,punto_anterior=punto_anterior) 
-                
+                puntos_aleatorios = generar_punto_aleatorio_en_parcela(anomalia,poligono_parcela,punto_inicial,punto_anterior=punto_anterior) 
                 if (not anomalia):
                     punto_anterior = puntos_aleatorios
                 
                 if (PONER_ANOMALIAS):
                     new_row = {
-                                columnas[0]: int(numero_pendiente) + 1000,
+                                columnas[0]: int(numero_pendiente),
                                 columnas[1]: puntos_aleatorios[0],
                                 columnas[2]: puntos_aleatorios[1],
                                 columnas[3]: next_date(),
@@ -283,7 +272,7 @@ def generar_coordenadas_gps(vacas_id,parcelas):
                             }
                 else:
                     new_row = {
-                                columnas[0]: int(numero_pendiente) + 1000,
+                                columnas[0]: int(numero_pendiente),
                                 columnas[1]: puntos_aleatorios[0],
                                 columnas[2]: puntos_aleatorios[1],
                                 columnas[3]: next_date(),
@@ -316,31 +305,51 @@ VALUES
 
 if __name__ == "__main__":
     # Generamos las parcelas
-    df_coordenadas = generar_datos_parcelas(10)
-    df_coordenadas.to_csv(path.join(CARPETA_DATOS_CSV,'parcelas.csv'),index=False)
-    # Organizar el DataFrame en una lista de listas de coordenadas por cada parcela
-    parcelas_dict = df_coordenadas.groupby('id_parcela').apply(
-        lambda x: list(zip(x.latitude, x.longitude))
-    ).to_dict()
+    espacio_disponible = {
+    'min_lat': 42.208709,
+    'max_lat': 8.568751,
+    'min_lon': -1.0,
+    'max_lon': -1.0
+    }
+    
+    if VERBOSE:
+        print("Creando parcelas")
+        
+    if (parcelas == None):
+        df_parcelas = generar_datos_parcelas(NUMERO_PARCELAS, espacio_disponible)
+        df_parcelas.to_csv(path.join(CARPETA_DATOS_CSV,'parcelas.csv'),index=False)
+        # Organizar el DataFrame en una lista de listas de coordenadas por cada parcela
+        parcelas_dict = df_parcelas.groupby('id_parcela').apply(
+            lambda x: list(zip(x.latitude, x.longitude))
+        ).to_dict()
 
-    # Convertir el diccionario en una lista de parcelas, donde cada parcela es representada por su lista de coordenadas
-    parcelas = list(parcelas_dict.values())
+        # Convertir el diccionario en una lista de parcelas, donde cada parcela es representada por su lista de coordenadas
+        parcelas = list(parcelas_dict.values())
+    
 
+    if VERBOSE:
+        print("Creando vacas")
     # Generamos las vacas
     df_vacas = generar_datos_vacas(NUMERO_DE_VACAS)
     df_vacas.to_csv(path.join(CARPETA_DATOS_CSV,'vacas.csv'),index=False)   
     vacas_id = list(df_vacas['Numero_pendiente'].to_numpy())
 
 
+    if VERBOSE:
+        print("Creando enfermedades")
     df_enfermedades = generar_datos_enfermedades(1000,vacas_id)
     df_enfermedades.to_csv(path.join(CARPETA_DATOS_CSV,'enfermedades.csv'),index=False)
 
 
+    if VERBOSE:
+        print("Creando partos")
     # Generar 100 registros de partos
     df_partos = generar_datos_partos(100,vacas_id)
     df_partos.to_csv(path.join(CARPETA_DATOS_CSV,'partos.csv'),index=False)
 
 
+    if VERBOSE:
+        print("Creando datos gps")
     # Generamos las coordenadas de las vacas
     df_gps = generar_coordenadas_gps(vacas_id,parcelas)
     df_gps.to_csv(path.join(CARPETA_DATOS_CSV,'datos.csv'),index=False)

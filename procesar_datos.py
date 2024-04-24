@@ -30,11 +30,18 @@ def guardar_posibles_anomalias():
 
 
 def dato_fuera(poin):
-    fuera_parcela = False
-    for poligono in poligonos:
-        if not poligono.contains(poin):
-            fuera_parcela = True
-    return fuera_parcela
+    global parcelas_dict
+    fuera_parcela = True
+    id = None
+    for id_parcela, puntos in parcelas_dict.items():
+        poligono = Polygon(puntos)
+        if poligono.contains(poin):
+            fuera_parcela = False
+            id = id_parcela
+            break
+        else:
+            id = None
+    return fuera_parcela,id
 
 def estan_todos_fuera():
     """
@@ -55,25 +62,25 @@ def añadir_segundos_pastando(numero_pendiente):
         
         segundos_pastando[numero_pendiente] = 0
     
-    segundos_pastando[numero_pendiente] += 10
+    segundos_pastando[numero_pendiente] += MINUTOS * 60
     
 def añadir_segundos_descansando(numero_pendiente):
     global segundos_descansando
     if not numero_pendiente in segundos_descansando:
         segundos_descansando[numero_pendiente] = 0
     
-    segundos_descansando[numero_pendiente] += 10
+    segundos_descansando[numero_pendiente] += MINUTOS * 60
     
 def añadir_segundos_caminando(numero_pendiente):
     global segundos_caminando
     if not numero_pendiente in segundos_caminando:
         segundos_caminando[numero_pendiente] = 0
     
-    segundos_caminando[numero_pendiente] += 10
+    segundos_caminando[numero_pendiente] += MINUTOS * 60
     
 
 def analizar_dato(gps):
-    if (len(puntos_30_anteriores) >= 1):
+    if (len(puntos_30_anteriores) >= 3):
         puntos_30_anteriores.pop(0)
         
     # Vamos a analizar la velocidad media de la vaca durante 5 min
@@ -86,7 +93,6 @@ def analizar_dato(gps):
     
     # Suponiendo que gps es un DataFrame y 'velocidad' es una variable previamente calculada
     
-    
     numero_pendiente = gps['Numero_pendiente']
     if (velocidad <= 1/20 and velocidad >= 1/30):
         añadir_segundos_pastando(numero_pendiente)
@@ -97,7 +103,7 @@ def analizar_dato(gps):
     
     return velocidad
 
-def analizar_dato_gps(gps,gps_anterior):
+def analizar_dato_gps(gps,gps_anterior,indices_parcela):
     
     global timer_15min_entrar 
     global instancia_fecha_15min_entrar 
@@ -147,16 +153,18 @@ def analizar_dato_gps(gps,gps_anterior):
         if diferencia > cinco_horas:
             timer_5h_estancia = False
             anomalias_bool = True
-        
+    
     # Si el punto actual esta fuera
-    if dato_fuera(gps_point):
+    dato_actual_fuera , id_parcela_dato_actual = dato_fuera(gps_point)
+    dato_anerior_fuera, id_parcela_dato_anterior = dato_fuera(gps_anterior_point)
+    if dato_actual_fuera:
         # Si la deteccion de anomalias está habilitada
         if anomalias_bool:
             guardar_anomalia(gps)
             velocidades_medias.append(analizar_dato(gps))
         # Si la deteccion de anomalias está deshabilitada
         else:
-            if not dato_fuera(gps_anterior_point):
+            if not dato_anerior_fuera:
                 if timer_15min_salir:
                     # Hay que guardar el punto en posibles anomalias y si al terminar el timer estan todas las vacas fuera pues se elimina sino se notifican las posibles anomalias
                     posibles_anomalias.append(gps)
@@ -171,12 +179,12 @@ def analizar_dato_gps(gps,gps_anterior):
                 if timer_15min_salir:
                     posibles_anomalias.append(gps) 
             velocidades_medias.append(0)
-            
+        indices_parcela.append(id_parcela_dato_anterior)
         diccionario_vacas_fuera[gps['Numero_pendiente']] = True
         
     # Si el punto actual está dentro
     else: 
-        if dato_fuera(gps_anterior_point):
+        if dato_anerior_fuera:
             if timer_15min_entrar and not timer_15min_salir:
                 pass
             elif not timer_15min_salir:
@@ -188,8 +196,9 @@ def analizar_dato_gps(gps,gps_anterior):
             pass
         
         velocidades_medias.append(analizar_dato(gps))
+        indices_parcela.append(id_parcela_dato_actual)
         diccionario_vacas_fuera[gps['Numero_pendiente']] = False
-    return gps_anterior
+    return gps_anterior,velocidades_medias
         
 def redondear_fecha_hora(dt):
     # Redondea a la cantidad de segundos más cercana, múltiplo de 10
@@ -233,8 +242,8 @@ def obtener_primer_procesado(df_datos_gps):
         
 
     # Añadir la distancia y velocidad calculada al DataFrame (asumiendo la primera velocidad y distancia como 0)
-    df_datos_gps['distancia_en_Km'] = [0] + distancias
-    df_datos_gps['velocidad_en_m/s'] = [0] + velocidades
+    # df_datos_gps['distancia_en_Km'] = [0] + distancias
+    df_datos_gps['velocidad'] = [0] + velocidades
     
     fuera_parcela = True
     for poligono in poligonos:
@@ -331,18 +340,30 @@ if __name__ == "__main__":
     
     # Ahora vamos a procesar dato a datos para encontrar anomalias y otras cosas
     velocidades_medias = [] 
+    indices_parcela = []
     for i in range(1, len(df_datos_gps)):
         row_prev = df_datos_gps.iloc[i-1]
         row = df_datos_gps.iloc[i]
-        analizar_dato_gps(row,row_prev) 
+        analizar_dato_gps(row,row_prev,indices_parcela) 
 
     df_datos_gps['velocidad_media_30_anteriors'] = [0] + velocidades_medias
-    
+    df_datos_gps['id_parcela'] = [0] + indices_parcela
 
-    columnas = ['Numero_pendiente','latitude','longitude','fecha','fuera_del_recinto','distancia_en_Km','velocidad_en_m/s','pos_promedio_lat','pos_promedio_lon','distancia_a_promedio','vacas_alejadas','velocidad_media_30_anteriors']
+    columnas = ['Numero_pendiente','latitude','longitude','fecha','id_parcela','fuera_del_recinto','distancia_en_Km','velocidad_en_m/s','pos_promedio_lat','pos_promedio_lon','distancia_a_promedio','vacas_alejadas','velocidad_media_30_anteriors']
     df_datos_gps = df_datos_gps[columnas]
-    df_datos_gps.to_csv(path.join(CARPETA_DATOS_CSV,'datos_procesados.csv'),index=False)
+    df_datos_gps.to_csv(path.join(CARPETA_DATOS_CSV,FICHERO_DATOS_DATOS_PROCESADOS),index=False)
     df_anomalias.to_csv(path.join(CARPETA_DATOS_CSV,FICHERO_DATOS_ANOMALIAS))
+    
+    df_vacas = pd.read_csv(path.join(CARPETA_DATOS_CSV,FICHERO_DATOS_VACAS))
+    # Establece 'Numero_pendiente' como el índice del DataFrame para alinearlo con las claves de tus diccionarios
+    df_vacas.set_index('Numero_pendiente', inplace=True)
+
+    # Añade los diccionarios como nuevas columnas
+    df_vacas['segundos_pastando'] = df_vacas.index.map(segundos_pastando)
+    df_vacas['segundos_descansando'] = df_vacas.index.map(segundos_descansando)
+    df_vacas['segundos_caminando'] = df_vacas.index.map(segundos_caminando)
+    
+    df_vacas.to_csv(path.join(CARPETA_DATOS_CSV,FICHERO_DATOS_VACAS))
     
     if VERBOSE: 
         print(f"\nDistancia total recorrida: {distancia_total} km\n")

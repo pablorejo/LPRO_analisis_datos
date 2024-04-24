@@ -1,11 +1,11 @@
-Numero_pendiente,IdUsuario,Fecha_nacimiento,idNumeroPendienteMadre,idUsuarioMadre,nota,minPastoVaca
-3732,1,2005-11-05,,0,Salud excelente,717
-4264,1,2006-01-31,4337.0,1,Salud excelente,142
-5859,1,2010-01-20,3745.0,1,,542
-8891,1,2007-12-07,5735.0,1,Salud excelente,643
-5373,1,2004-08-28,9736.0,1,Requiere atención,988
-6874,1,2001-06-21,7687.0,1,Vaca líder,357
-7744,1,2007-12-03,,0,Requiere atención,421
-4468,1,2005-10-21,1714.0,1,Requiere atención,157
-1705,1,2007-09-26,,0,Requiere atención,391
-3599,1,2005-04-24,,0,,970
+Numero_pendiente,IdUsuario,Fecha_nacimiento,idNumeroPendienteMadre,idUsuarioMadre,nota
+3732,1,2005-11-05,,0,Salud excelente
+4264,1,2006-01-31,4337.0,1,Salud excelente
+5859,1,2010-01-20,3745.0,1,
+8891,1,2007-12-07,5735.0,1,Salud excelente
+5373,1,2004-08-28,9736.0,1,Requiere atención
+6874,1,2001-06-21,7687.0,1,Vaca líder
+7744,1,2007-12-03,,0,Requiere atención
+4468,1,2005-10-21,1714.0,1,Requiere atención
+1705,1,2007-09-26,,0,Requiere atención
+3599,1,2005-04-24,,0,

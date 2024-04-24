@@ -1,1001 +1,1001 @@
 Numero_pendiente,IdUsuario,Medicamento,Enfermedad,fecha_inicio,fecha_fin,periocidad_en_dias,nota
-6874,1,Ibuprofeno,Mastitis,2024-02-29,2024-03-23,5,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Gripe,2024-03-12,2024-03-22,8,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Cólico,2024-01-15,2024-02-11,7,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Mastitis,2024-03-23,2024-04-15,6,
-4468,1,Paracetamol,Mastitis,2024-03-13,2024-03-27,7,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Cólico,2024-02-06,2024-02-12,1,
-8891,1,Ibuprofeno,Mastitis,2024-02-13,2024-03-09,8,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Paracetamol,Gripe,2024-02-13,2024-02-26,8,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Gripe,2024-04-09,2024-04-22,2,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Gripe,2024-02-10,2024-03-05,1,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Mastitis,2024-04-11,2024-04-23,3,Mantener en observación por posibles recaídas.
-7744,1,Paracetamol,Cólico,2024-04-10,2024-05-03,7,
-1705,1,Amoxicilina,Mastitis,2024-02-26,2024-03-19,7,
-1705,1,Amoxicilina,Cólico,2024-01-31,2024-02-15,8,"Tratamiento en curso, seguir protocolo."
-4264,1,Amoxicilina,Gripe,2024-01-26,2024-02-11,5,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Gripe,2024-03-31,2024-04-06,4,"La vaca muestra buen apetito, signo positivo."
-4468,1,Amoxicilina,Cólico,2024-04-14,2024-04-20,4,
-4468,1,Amoxicilina,Mastitis,2024-04-09,2024-04-20,6,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Mastitis,2024-03-01,2024-03-25,2,"Tratamiento en curso, seguir protocolo."
-4264,1,Amoxicilina,Mastitis,2024-03-05,2024-03-16,1,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Ibuprofeno,Gripe,2024-02-16,2024-02-26,2,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Mastitis,2024-04-14,2024-04-23,3,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Cólico,2024-03-04,2024-03-11,6,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Mastitis,2024-02-02,2024-03-01,5,Mantener en observación por posibles recaídas.
-5373,1,Ibuprofeno,Mastitis,2024-02-28,2024-03-12,3,"La vaca muestra buen apetito, signo positivo."
-8891,1,Ibuprofeno,Cólico,2024-02-27,2024-03-11,7,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Cólico,2024-04-07,2024-04-28,5,"La vaca muestra buen apetito, signo positivo."
-8891,1,Amoxicilina,Gripe,2024-03-05,2024-03-17,2,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Gripe,2024-01-29,2024-02-11,1,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Mastitis,2024-01-17,2024-02-15,8,
-5859,1,Ibuprofeno,Mastitis,2024-02-15,2024-03-14,9,
-8891,1,Amoxicilina,Gripe,2024-01-26,2024-02-20,3,"La vaca muestra buen apetito, signo positivo."
-1705,1,Ibuprofeno,Mastitis,2024-02-15,2024-03-13,9,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Mastitis,2024-03-13,2024-03-27,6,"La vaca muestra buen apetito, signo positivo."
-8891,1,Amoxicilina,Cólico,2024-01-23,2024-02-03,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Mastitis,2024-03-20,2024-04-18,3,
-8891,1,Ibuprofeno,Cólico,2024-02-18,2024-03-08,3,Mantener en observación por posibles recaídas.
-4468,1,Paracetamol,Gripe,2024-01-11,2024-02-04,7,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Mastitis,2024-01-19,2024-01-31,9,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Cólico,2024-02-03,2024-03-03,2,
-3599,1,Paracetamol,Cólico,2024-04-16,2024-05-11,5,Mantener en observación por posibles recaídas.
-3599,1,Paracetamol,Cólico,2024-03-27,2024-04-19,2,
-3732,1,Ibuprofeno,Cólico,2024-03-23,2024-03-31,4,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Paracetamol,Mastitis,2024-04-07,2024-04-12,8,"La vaca muestra buen apetito, signo positivo."
-4468,1,Ibuprofeno,Gripe,2024-03-07,2024-04-01,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Cólico,2024-04-04,2024-05-03,1,Mantener en observación por posibles recaídas.
-5859,1,Amoxicilina,Gripe,2024-02-26,2024-03-02,8,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Cólico,2024-02-11,2024-02-28,4,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Cólico,2024-01-26,2024-02-04,1,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Amoxicilina,Cólico,2024-01-24,2024-02-16,9,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Ibuprofeno,Gripe,2024-04-10,2024-05-07,4,
-5373,1,Ibuprofeno,Gripe,2024-03-08,2024-03-15,8,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Gripe,2024-02-21,2024-03-15,5,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Mastitis,2024-01-23,2024-02-15,2,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-03-11,2024-03-30,7,"Tratamiento en curso, seguir protocolo."
-1705,1,Paracetamol,Mastitis,2024-03-02,2024-03-14,5,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Mastitis,2024-01-25,2024-02-10,4,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Gripe,2024-01-18,2024-02-02,7,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Cólico,2024-02-22,2024-03-04,7,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Cólico,2024-04-11,2024-04-25,5,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Mastitis,2024-04-17,2024-05-14,3,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Ibuprofeno,Mastitis,2024-03-06,2024-03-29,5,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Gripe,2024-03-18,2024-03-28,8,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Cólico,2024-01-21,2024-02-17,7,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Mastitis,2024-03-29,2024-04-21,6,
+4468,1,Paracetamol,Mastitis,2024-03-19,2024-04-02,7,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Cólico,2024-02-12,2024-02-18,1,
+8891,1,Ibuprofeno,Mastitis,2024-02-19,2024-03-15,8,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Paracetamol,Gripe,2024-02-19,2024-03-03,8,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Gripe,2024-04-15,2024-04-28,2,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Gripe,2024-02-16,2024-03-11,1,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Mastitis,2024-04-17,2024-04-29,3,Mantener en observación por posibles recaídas.
+7744,1,Paracetamol,Cólico,2024-04-16,2024-05-09,7,
+1705,1,Amoxicilina,Mastitis,2024-03-03,2024-03-25,7,
+1705,1,Amoxicilina,Cólico,2024-02-06,2024-02-21,8,"Tratamiento en curso, seguir protocolo."
+4264,1,Amoxicilina,Gripe,2024-02-01,2024-02-17,5,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Gripe,2024-04-06,2024-04-12,4,"La vaca muestra buen apetito, signo positivo."
+4468,1,Amoxicilina,Cólico,2024-04-20,2024-04-26,4,
+4468,1,Amoxicilina,Mastitis,2024-04-15,2024-04-26,6,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Mastitis,2024-03-07,2024-03-31,2,"Tratamiento en curso, seguir protocolo."
+4264,1,Amoxicilina,Mastitis,2024-03-11,2024-03-22,1,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Ibuprofeno,Gripe,2024-02-22,2024-03-03,2,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Mastitis,2024-04-20,2024-04-29,3,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Cólico,2024-03-10,2024-03-17,6,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Mastitis,2024-02-08,2024-03-07,5,Mantener en observación por posibles recaídas.
+5373,1,Ibuprofeno,Mastitis,2024-03-05,2024-03-18,3,"La vaca muestra buen apetito, signo positivo."
+8891,1,Ibuprofeno,Cólico,2024-03-04,2024-03-17,7,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Cólico,2024-04-13,2024-05-04,5,"La vaca muestra buen apetito, signo positivo."
+8891,1,Amoxicilina,Gripe,2024-03-11,2024-03-23,2,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Gripe,2024-02-04,2024-02-17,1,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Mastitis,2024-01-23,2024-02-21,8,
+5859,1,Ibuprofeno,Mastitis,2024-02-21,2024-03-20,9,
+8891,1,Amoxicilina,Gripe,2024-02-01,2024-02-26,3,"La vaca muestra buen apetito, signo positivo."
+1705,1,Ibuprofeno,Mastitis,2024-02-21,2024-03-19,9,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Mastitis,2024-03-19,2024-04-02,6,"La vaca muestra buen apetito, signo positivo."
+8891,1,Amoxicilina,Cólico,2024-01-29,2024-02-09,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Mastitis,2024-03-26,2024-04-24,3,
+8891,1,Ibuprofeno,Cólico,2024-02-24,2024-03-14,3,Mantener en observación por posibles recaídas.
+4468,1,Paracetamol,Gripe,2024-01-17,2024-02-10,7,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Mastitis,2024-01-25,2024-02-06,9,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Cólico,2024-02-09,2024-03-09,2,
+3599,1,Paracetamol,Cólico,2024-04-22,2024-05-17,5,Mantener en observación por posibles recaídas.
+3599,1,Paracetamol,Cólico,2024-04-02,2024-04-25,2,
+3732,1,Ibuprofeno,Cólico,2024-03-29,2024-04-06,4,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Paracetamol,Mastitis,2024-04-13,2024-04-18,8,"La vaca muestra buen apetito, signo positivo."
+4468,1,Ibuprofeno,Gripe,2024-03-13,2024-04-07,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Cólico,2024-04-10,2024-05-09,1,Mantener en observación por posibles recaídas.
+5859,1,Amoxicilina,Gripe,2024-03-03,2024-03-08,8,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Cólico,2024-02-17,2024-03-05,4,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Cólico,2024-02-01,2024-02-10,1,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Amoxicilina,Cólico,2024-01-30,2024-02-22,9,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Ibuprofeno,Gripe,2024-04-16,2024-05-13,4,
+5373,1,Ibuprofeno,Gripe,2024-03-14,2024-03-21,8,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Gripe,2024-02-27,2024-03-21,5,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Mastitis,2024-01-29,2024-02-21,2,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-03-17,2024-04-05,7,"Tratamiento en curso, seguir protocolo."
+1705,1,Paracetamol,Mastitis,2024-03-08,2024-03-20,5,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Mastitis,2024-01-31,2024-02-16,4,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Gripe,2024-01-24,2024-02-08,7,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Cólico,2024-02-28,2024-03-10,7,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Cólico,2024-04-17,2024-05-01,5,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Mastitis,2024-04-23,2024-05-20,3,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Cólico,2024-04-15,2024-04-20,8,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Cólico,2024-01-29,2024-02-05,4,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Mastitis,2024-03-17,2024-04-08,2,
+3599,1,Ibuprofeno,Gripe,2024-02-16,2024-03-02,1,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Mastitis,2024-03-08,2024-04-02,7,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-03-13,2024-03-24,2,"La vaca muestra buen apetito, signo positivo."
+7744,1,Paracetamol,Gripe,2024-01-22,2024-01-30,6,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Mastitis,2024-02-20,2024-03-04,5,
+5859,1,Ibuprofeno,Cólico,2024-02-26,2024-03-14,7,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Gripe,2024-03-15,2024-03-27,4,
+8891,1,Amoxicilina,Mastitis,2024-02-18,2024-03-15,2,"Tratamiento en curso, seguir protocolo."
+6874,1,Amoxicilina,Mastitis,2024-03-03,2024-03-08,8,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Mastitis,2024-02-22,2024-03-09,8,
+5373,1,Ibuprofeno,Gripe,2024-02-14,2024-02-21,9,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Cólico,2024-02-25,2024-03-02,1,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Cólico,2024-01-23,2024-02-13,1,"La vaca muestra buen apetito, signo positivo."
+5373,1,Paracetamol,Mastitis,2024-01-19,2024-02-04,3,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Gripe,2024-03-14,2024-03-24,7,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Cólico,2024-02-10,2024-02-29,2,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Mastitis,2024-03-01,2024-03-17,6,
+5373,1,Paracetamol,Cólico,2024-04-16,2024-05-14,2,"La vaca muestra buen apetito, signo positivo."
+1705,1,Ibuprofeno,Cólico,2024-03-07,2024-03-22,8,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Gripe,2024-02-14,2024-03-09,4,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Mastitis,2024-03-13,2024-03-22,4,"La vaca muestra buen apetito, signo positivo."
+4468,1,Paracetamol,Cólico,2024-03-26,2024-04-20,3,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Ibuprofeno,Cólico,2024-01-29,2024-02-10,5,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Gripe,2024-04-12,2024-04-18,6,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Gripe,2024-04-20,2024-05-18,5,Mantener en observación por posibles recaídas.
+4264,1,Ibuprofeno,Cólico,2024-04-05,2024-05-03,7,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Gripe,2024-03-19,2024-04-17,9,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Gripe,2024-03-08,2024-03-18,1,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Mastitis,2024-04-06,2024-05-03,7,
+3732,1,Amoxicilina,Mastitis,2024-03-27,2024-04-18,8,
+6874,1,Paracetamol,Cólico,2024-02-29,2024-03-21,7,
+3732,1,Ibuprofeno,Cólico,2024-02-10,2024-03-02,6,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Cólico,2024-04-04,2024-04-09,5,
+5859,1,Paracetamol,Gripe,2024-02-12,2024-03-06,8,
+5373,1,Paracetamol,Mastitis,2024-02-12,2024-02-20,4,"La vaca muestra buen apetito, signo positivo."
+5859,1,Ibuprofeno,Cólico,2024-03-11,2024-03-17,7,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Mastitis,2024-03-10,2024-03-21,4,
+8891,1,Paracetamol,Gripe,2024-03-08,2024-04-02,8,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Mastitis,2024-03-20,2024-03-25,9,
+3732,1,Ibuprofeno,Gripe,2024-03-21,2024-04-03,5,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Cólico,2024-02-09,2024-03-09,9,
+6874,1,Ibuprofeno,Gripe,2024-02-14,2024-02-25,3,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Gripe,2024-01-22,2024-02-07,7,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Gripe,2024-03-08,2024-03-17,7,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Paracetamol,Gripe,2024-03-22,2024-04-17,6,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Ibuprofeno,Cólico,2024-01-31,2024-02-10,8,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Mastitis,2024-03-15,2024-03-27,9,
+3599,1,Ibuprofeno,Cólico,2024-03-24,2024-04-21,3,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Cólico,2024-01-19,2024-02-12,3,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Gripe,2024-03-07,2024-03-22,1,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Cólico,2024-04-22,2024-05-02,9,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Gripe,2024-03-22,2024-04-01,2,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Mastitis,2024-02-20,2024-02-29,8,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Gripe,2024-03-09,2024-03-24,6,
+4264,1,Paracetamol,Mastitis,2024-02-28,2024-03-16,8,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Cólico,2024-02-19,2024-03-11,6,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Gripe,2024-01-29,2024-02-08,7,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Mastitis,2024-04-01,2024-04-19,3,"La vaca muestra buen apetito, signo positivo."
+5373,1,Amoxicilina,Cólico,2024-03-27,2024-04-12,8,Mantener en observación por posibles recaídas.
+7744,1,Amoxicilina,Mastitis,2024-04-18,2024-05-15,8,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Gripe,2024-03-19,2024-04-03,5,"La vaca muestra buen apetito, signo positivo."
+5859,1,Paracetamol,Mastitis,2024-03-19,2024-03-31,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Mastitis,2024-02-16,2024-02-21,4,"La vaca muestra buen apetito, signo positivo."
+3732,1,Ibuprofeno,Mastitis,2024-03-26,2024-04-24,6,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Cólico,2024-01-23,2024-02-13,6,Mantener en observación por posibles recaídas.
+7744,1,Paracetamol,Mastitis,2024-04-14,2024-05-12,7,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Mastitis,2024-03-11,2024-04-09,2,"Tratamiento en curso, seguir protocolo."
+7744,1,Ibuprofeno,Mastitis,2024-04-20,2024-05-19,3,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Mastitis,2024-04-12,2024-05-07,1,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Gripe,2024-03-03,2024-03-22,3,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Gripe,2024-01-28,2024-02-02,6,
+1705,1,Paracetamol,Cólico,2024-04-19,2024-05-08,3,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Paracetamol,Mastitis,2024-03-25,2024-04-02,1,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Cólico,2024-02-23,2024-03-21,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Mastitis,2024-03-10,2024-03-30,9,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Amoxicilina,Gripe,2024-04-21,2024-05-04,4,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Mastitis,2024-01-20,2024-01-28,2,Mantener en observación por posibles recaídas.
+1705,1,Ibuprofeno,Cólico,2024-02-14,2024-02-23,1,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Mastitis,2024-03-07,2024-04-01,7,"La vaca muestra buen apetito, signo positivo."
+8891,1,Ibuprofeno,Gripe,2024-02-07,2024-02-26,5,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Cólico,2024-04-06,2024-04-15,7,
+5859,1,Paracetamol,Mastitis,2024-02-04,2024-02-26,5,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Gripe,2024-02-27,2024-03-22,2,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Mastitis,2024-03-13,2024-04-11,4,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Gripe,2024-03-30,2024-04-28,7,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Cólico,2024-01-29,2024-02-06,3,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Cólico,2024-04-20,2024-05-13,9,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Mastitis,2024-02-23,2024-02-29,9,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Gripe,2024-03-08,2024-03-25,3,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Cólico,2024-03-23,2024-04-17,4,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Mastitis,2024-02-13,2024-02-25,3,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Mastitis,2024-03-03,2024-03-30,2,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Mastitis,2024-01-17,2024-02-03,2,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Gripe,2024-03-07,2024-04-05,6,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Mastitis,2024-04-12,2024-05-02,7,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Gripe,2024-02-21,2024-02-26,2,
+3599,1,Ibuprofeno,Mastitis,2024-04-15,2024-04-21,8,"Tratamiento en curso, seguir protocolo."
+7744,1,Ibuprofeno,Gripe,2024-02-21,2024-03-10,7,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Mastitis,2024-04-20,2024-04-26,3,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Mastitis,2024-02-28,2024-03-07,3,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Gripe,2024-02-29,2024-03-12,7,
+1705,1,Paracetamol,Cólico,2024-03-13,2024-04-11,9,"La vaca muestra buen apetito, signo positivo."
+3732,1,Ibuprofeno,Cólico,2024-02-29,2024-03-09,6,
+5373,1,Paracetamol,Cólico,2024-03-29,2024-04-09,7,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Gripe,2024-04-17,2024-04-24,6,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Cólico,2024-02-12,2024-03-01,3,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Mastitis,2024-02-20,2024-03-02,9,"La vaca muestra buen apetito, signo positivo."
+4468,1,Amoxicilina,Gripe,2024-01-21,2024-02-10,6,"Tratamiento en curso, seguir protocolo."
+1705,1,Paracetamol,Cólico,2024-02-14,2024-03-06,9,
+1705,1,Amoxicilina,Mastitis,2024-03-16,2024-04-06,9,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Mastitis,2024-02-16,2024-03-10,1,"Tratamiento en curso, seguir protocolo."
+5859,1,Paracetamol,Gripe,2024-04-16,2024-04-30,1,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Cólico,2024-03-11,2024-03-16,5,"Tratamiento en curso, seguir protocolo."
+7744,1,Ibuprofeno,Mastitis,2024-03-31,2024-04-20,5,"La vaca muestra buen apetito, signo positivo."
+7744,1,Ibuprofeno,Cólico,2024-01-26,2024-02-21,6,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Mastitis,2024-03-25,2024-04-15,3,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Mastitis,2024-03-03,2024-03-18,8,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-04-06,2024-04-15,7,"La vaca muestra buen apetito, signo positivo."
+1705,1,Ibuprofeno,Cólico,2024-02-27,2024-03-10,2,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Mastitis,2024-03-11,2024-04-08,8,
+8891,1,Ibuprofeno,Cólico,2024-03-21,2024-04-12,3,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Cólico,2024-03-06,2024-03-19,1,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Cólico,2024-02-05,2024-02-16,7,Mantener en observación por posibles recaídas.
+7744,1,Amoxicilina,Gripe,2024-03-12,2024-03-30,8,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Mastitis,2024-02-03,2024-02-13,4,
+7744,1,Amoxicilina,Cólico,2024-04-22,2024-05-14,4,
+6874,1,Ibuprofeno,Gripe,2024-03-01,2024-03-11,7,
+4468,1,Ibuprofeno,Cólico,2024-02-19,2024-02-28,2,"La vaca muestra buen apetito, signo positivo."
+3732,1,Paracetamol,Gripe,2024-02-27,2024-03-05,2,
+1705,1,Paracetamol,Cólico,2024-04-08,2024-05-05,6,
+5373,1,Paracetamol,Cólico,2024-02-03,2024-02-25,2,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Cólico,2024-02-11,2024-02-17,2,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Gripe,2024-04-03,2024-04-15,4,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Gripe,2024-02-22,2024-03-11,7,
+5859,1,Paracetamol,Mastitis,2024-02-20,2024-03-01,6,
+8891,1,Ibuprofeno,Mastitis,2024-02-29,2024-03-09,3,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Gripe,2024-03-11,2024-04-02,2,"La vaca muestra buen apetito, signo positivo."
+4468,1,Amoxicilina,Mastitis,2024-03-29,2024-04-18,4,"Tratamiento en curso, seguir protocolo."
+6874,1,Amoxicilina,Gripe,2024-04-23,2024-05-19,3,"La vaca muestra buen apetito, signo positivo."
+8891,1,Amoxicilina,Gripe,2024-03-05,2024-03-17,2,"Tratamiento en curso, seguir protocolo."
+5373,1,Ibuprofeno,Gripe,2024-03-15,2024-03-28,1,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Mastitis,2024-04-21,2024-05-14,1,
+8891,1,Paracetamol,Cólico,2024-02-13,2024-03-09,6,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Mastitis,2024-04-20,2024-05-02,5,"Tratamiento en curso, seguir protocolo."
+4468,1,Amoxicilina,Cólico,2024-03-24,2024-03-31,4,"La vaca muestra buen apetito, signo positivo."
+3599,1,Ibuprofeno,Mastitis,2024-04-10,2024-04-23,9,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Amoxicilina,Cólico,2024-04-03,2024-04-26,3,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Cólico,2024-02-08,2024-03-01,1,
+4468,1,Paracetamol,Gripe,2024-04-12,2024-04-25,5,
+8891,1,Amoxicilina,Mastitis,2024-04-18,2024-04-30,9,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Cólico,2024-04-07,2024-04-13,4,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Mastitis,2024-02-06,2024-02-14,8,"La vaca muestra buen apetito, signo positivo."
+3599,1,Ibuprofeno,Gripe,2024-02-21,2024-03-18,6,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Gripe,2024-04-15,2024-05-05,2,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Cólico,2024-03-27,2024-04-25,4,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Gripe,2024-04-17,2024-05-09,1,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Mastitis,2024-03-12,2024-04-05,5,"Tratamiento en curso, seguir protocolo."
+5859,1,Paracetamol,Gripe,2024-04-19,2024-04-25,2,
+5859,1,Paracetamol,Gripe,2024-04-08,2024-04-23,4,
+1705,1,Paracetamol,Gripe,2024-02-23,2024-03-17,5,"La vaca muestra buen apetito, signo positivo."
+4264,1,Amoxicilina,Gripe,2024-04-23,2024-05-05,9,"La vaca muestra buen apetito, signo positivo."
+6874,1,Paracetamol,Mastitis,2024-03-15,2024-03-31,9,
+1705,1,Paracetamol,Mastitis,2024-03-17,2024-03-27,6,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Amoxicilina,Cólico,2024-04-17,2024-04-30,1,"La vaca muestra buen apetito, signo positivo."
+3732,1,Paracetamol,Gripe,2024-01-21,2024-01-31,4,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Cólico,2024-02-25,2024-03-20,6,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Cólico,2024-03-29,2024-04-05,9,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Mastitis,2024-02-07,2024-03-04,1,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Gripe,2024-02-19,2024-02-28,6,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Gripe,2024-02-21,2024-03-21,6,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Mastitis,2024-03-02,2024-03-08,9,"La vaca muestra buen apetito, signo positivo."
+4264,1,Amoxicilina,Mastitis,2024-03-04,2024-03-09,3,"La vaca muestra buen apetito, signo positivo."
+3732,1,Paracetamol,Mastitis,2024-03-05,2024-04-03,1,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Gripe,2024-03-26,2024-04-13,8,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Cólico,2024-02-12,2024-03-03,8,"La vaca muestra buen apetito, signo positivo."
+1705,1,Ibuprofeno,Cólico,2024-02-18,2024-03-18,1,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Gripe,2024-03-04,2024-03-13,4,
+5373,1,Ibuprofeno,Cólico,2024-04-16,2024-04-21,2,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Gripe,2024-03-28,2024-04-06,1,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Gripe,2024-03-14,2024-04-06,9,
+8891,1,Amoxicilina,Mastitis,2024-02-22,2024-03-21,1,
+4468,1,Ibuprofeno,Gripe,2024-03-06,2024-03-31,7,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Mastitis,2024-04-01,2024-04-10,3,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Mastitis,2024-04-09,2024-04-19,2,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Cólico,2024-02-20,2024-03-10,4,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Mastitis,2024-01-19,2024-02-15,5,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Cólico,2024-01-29,2024-02-18,6,
+4264,1,Paracetamol,Gripe,2024-03-02,2024-03-26,2,Mantener en observación por posibles recaídas.
+5373,1,Ibuprofeno,Cólico,2024-04-16,2024-05-03,7,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Paracetamol,Cólico,2024-03-18,2024-03-30,2,
+6874,1,Ibuprofeno,Cólico,2024-02-03,2024-02-08,4,
+6874,1,Paracetamol,Gripe,2024-02-13,2024-03-09,9,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Gripe,2024-04-03,2024-04-28,3,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Mastitis,2024-03-16,2024-03-26,7,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Gripe,2024-04-19,2024-05-04,1,
+4468,1,Amoxicilina,Mastitis,2024-04-07,2024-05-06,5,
+4468,1,Paracetamol,Gripe,2024-01-16,2024-02-01,5,"La vaca muestra buen apetito, signo positivo."
+7744,1,Ibuprofeno,Cólico,2024-02-27,2024-03-24,1,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Mastitis,2024-04-09,2024-04-20,4,"La vaca muestra buen apetito, signo positivo."
+7744,1,Ibuprofeno,Gripe,2024-04-08,2024-04-14,4,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Gripe,2024-01-26,2024-02-20,7,
+5859,1,Ibuprofeno,Gripe,2024-04-09,2024-04-27,8,
+8891,1,Ibuprofeno,Cólico,2024-04-13,2024-05-03,7,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Mastitis,2024-04-19,2024-05-09,8,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Mastitis,2024-01-30,2024-02-15,2,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Mastitis,2024-03-02,2024-03-28,7,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Gripe,2024-02-08,2024-02-16,9,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Mastitis,2024-03-01,2024-03-15,3,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Amoxicilina,Mastitis,2024-01-21,2024-02-17,6,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Gripe,2024-02-16,2024-03-16,1,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Gripe,2024-03-10,2024-04-07,3,Mantener en observación por posibles recaídas.
+4264,1,Paracetamol,Gripe,2024-01-24,2024-02-02,6,Mantener en observación por posibles recaídas.
+3599,1,Paracetamol,Gripe,2024-01-23,2024-02-20,4,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Cólico,2024-04-21,2024-05-20,1,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Cólico,2024-02-23,2024-03-16,6,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Mastitis,2024-02-17,2024-03-13,3,"La vaca muestra buen apetito, signo positivo."
+5373,1,Amoxicilina,Cólico,2024-03-31,2024-04-10,4,"Tratamiento en curso, seguir protocolo."
+1705,1,Paracetamol,Gripe,2024-03-26,2024-04-21,4,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Paracetamol,Cólico,2024-03-01,2024-03-20,1,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Gripe,2024-04-05,2024-04-29,7,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Cólico,2024-02-24,2024-03-08,7,
+1705,1,Amoxicilina,Gripe,2024-02-18,2024-02-26,2,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Ibuprofeno,Mastitis,2024-02-15,2024-02-25,7,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Mastitis,2024-03-18,2024-03-26,6,
+3732,1,Paracetamol,Cólico,2024-02-02,2024-02-27,7,
+8891,1,Amoxicilina,Gripe,2024-03-30,2024-04-10,3,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Ibuprofeno,Mastitis,2024-01-25,2024-01-31,1,"La vaca muestra buen apetito, signo positivo."
+4468,1,Ibuprofeno,Gripe,2024-02-07,2024-02-21,2,Mantener en observación por posibles recaídas.
+4468,1,Paracetamol,Cólico,2024-03-20,2024-04-06,9,"La vaca muestra buen apetito, signo positivo."
+4264,1,Paracetamol,Gripe,2024-01-29,2024-02-26,1,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Gripe,2024-02-27,2024-03-25,5,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Cólico,2024-02-20,2024-03-01,9,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Mastitis,2024-02-10,2024-02-17,3,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Cólico,2024-03-18,2024-04-06,8,
+5373,1,Amoxicilina,Gripe,2024-03-13,2024-04-06,9,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Cólico,2024-04-17,2024-04-27,1,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Cólico,2024-04-06,2024-05-05,7,
+7744,1,Ibuprofeno,Gripe,2024-03-23,2024-03-31,5,Mantener en observación por posibles recaídas.
+5373,1,Ibuprofeno,Cólico,2024-04-17,2024-05-07,1,
+5859,1,Amoxicilina,Mastitis,2024-03-04,2024-03-10,6,"Tratamiento en curso, seguir protocolo."
+5373,1,Amoxicilina,Mastitis,2024-04-07,2024-05-04,8,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Cólico,2024-03-24,2024-04-08,2,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Gripe,2024-03-26,2024-04-07,3,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Cólico,2024-02-08,2024-02-21,1,
+4468,1,Ibuprofeno,Cólico,2024-03-22,2024-04-13,9,
+1705,1,Paracetamol,Mastitis,2024-01-25,2024-02-06,6,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Ibuprofeno,Mastitis,2024-03-16,2024-04-09,7,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Gripe,2024-03-25,2024-04-06,7,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Gripe,2024-04-21,2024-05-05,4,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Paracetamol,Gripe,2024-01-31,2024-02-25,3,
+5373,1,Amoxicilina,Cólico,2024-02-07,2024-02-13,5,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Cólico,2024-04-05,2024-04-27,2,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Cólico,2024-02-19,2024-03-19,9,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Cólico,2024-03-13,2024-03-28,7,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-04-01,2024-04-18,3,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Gripe,2024-04-06,2024-04-26,6,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Gripe,2024-03-12,2024-03-19,2,"Tratamiento en curso, seguir protocolo."
+5859,1,Paracetamol,Cólico,2024-04-19,2024-04-24,7,"La vaca muestra buen apetito, signo positivo."
+6874,1,Amoxicilina,Cólico,2024-04-19,2024-05-18,7,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Gripe,2024-04-05,2024-05-01,1,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Mastitis,2024-02-14,2024-02-24,4,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Gripe,2024-04-09,2024-05-03,8,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Cólico,2024-04-13,2024-04-18,1,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Cólico,2024-03-04,2024-03-26,7,
+4468,1,Paracetamol,Gripe,2024-01-21,2024-02-18,9,
+4264,1,Ibuprofeno,Mastitis,2024-01-31,2024-02-19,3,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Mastitis,2024-03-20,2024-04-14,9,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Cólico,2024-04-20,2024-04-29,2,
+3732,1,Ibuprofeno,Cólico,2024-04-15,2024-04-24,4,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Cólico,2024-01-24,2024-02-10,5,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Gripe,2024-02-01,2024-02-18,5,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Cólico,2024-02-15,2024-02-24,2,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Cólico,2024-04-16,2024-05-06,2,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Cólico,2024-01-21,2024-01-31,6,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Mastitis,2024-03-19,2024-04-15,7,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Mastitis,2024-02-04,2024-03-04,9,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Cólico,2024-03-08,2024-03-26,2,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Ibuprofeno,Mastitis,2024-03-09,2024-04-03,1,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Mastitis,2024-02-16,2024-03-12,1,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Mastitis,2024-02-25,2024-03-08,1,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Mastitis,2024-04-20,2024-05-09,3,Mantener en observación por posibles recaídas.
+1705,1,Ibuprofeno,Gripe,2024-02-13,2024-03-12,9,Mantener en observación por posibles recaídas.
+7744,1,Paracetamol,Mastitis,2024-02-17,2024-03-13,2,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Mastitis,2024-03-30,2024-04-09,1,"La vaca muestra buen apetito, signo positivo."
+3599,1,Paracetamol,Mastitis,2024-02-28,2024-03-11,9,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Mastitis,2024-02-24,2024-03-04,2,
+8891,1,Amoxicilina,Gripe,2024-03-19,2024-04-08,7,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-04-20,2024-05-04,1,Mantener en observación por posibles recaídas.
+4264,1,Ibuprofeno,Cólico,2024-02-12,2024-02-22,9,"La vaca muestra buen apetito, signo positivo."
+4468,1,Amoxicilina,Mastitis,2024-03-27,2024-04-02,9,"La vaca muestra buen apetito, signo positivo."
+5373,1,Amoxicilina,Mastitis,2024-02-17,2024-03-13,1,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Cólico,2024-02-12,2024-02-17,9,
+5859,1,Paracetamol,Gripe,2024-04-13,2024-04-19,4,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Cólico,2024-02-20,2024-03-15,4,Mantener en observación por posibles recaídas.
+1705,1,Ibuprofeno,Gripe,2024-04-18,2024-05-02,1,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Cólico,2024-03-14,2024-03-21,8,
+4468,1,Ibuprofeno,Cólico,2024-01-28,2024-02-18,5,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Paracetamol,Mastitis,2024-03-02,2024-03-30,3,"Tratamiento en curso, seguir protocolo."
+5373,1,Ibuprofeno,Cólico,2024-03-11,2024-04-03,2,
+5373,1,Ibuprofeno,Gripe,2024-02-18,2024-03-04,7,Mantener en observación por posibles recaídas.
+4264,1,Paracetamol,Gripe,2024-04-17,2024-05-08,3,"La vaca muestra buen apetito, signo positivo."
+4468,1,Paracetamol,Cólico,2024-03-26,2024-04-17,4,
+7744,1,Amoxicilina,Gripe,2024-04-18,2024-05-01,5,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Amoxicilina,Cólico,2024-02-09,2024-03-02,8,
+5373,1,Ibuprofeno,Mastitis,2024-04-16,2024-05-08,3,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Mastitis,2024-03-25,2024-04-04,1,
+6874,1,Ibuprofeno,Mastitis,2024-02-01,2024-02-15,2,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Mastitis,2024-03-07,2024-03-18,7,
+4468,1,Paracetamol,Cólico,2024-02-23,2024-03-11,9,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Gripe,2024-02-20,2024-03-02,8,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Cólico,2024-02-17,2024-03-08,8,
+6874,1,Ibuprofeno,Gripe,2024-03-13,2024-04-11,2,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Cólico,2024-03-25,2024-03-31,4,
+8891,1,Paracetamol,Gripe,2024-01-18,2024-02-06,3,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Gripe,2024-03-05,2024-03-15,8,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Cólico,2024-02-23,2024-03-08,3,
+4468,1,Paracetamol,Mastitis,2024-03-02,2024-03-12,9,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Cólico,2024-03-29,2024-04-09,8,Mantener en observación por posibles recaídas.
+4264,1,Ibuprofeno,Mastitis,2024-03-18,2024-04-03,7,
+3599,1,Ibuprofeno,Cólico,2024-04-04,2024-04-25,4,
+7744,1,Paracetamol,Gripe,2024-01-18,2024-02-11,6,
+3732,1,Ibuprofeno,Mastitis,2024-01-23,2024-02-20,1,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Gripe,2024-03-28,2024-04-20,5,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Gripe,2024-02-27,2024-03-19,6,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Gripe,2024-02-27,2024-03-12,7,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Paracetamol,Cólico,2024-03-26,2024-04-10,6,
+5373,1,Paracetamol,Gripe,2024-03-09,2024-03-23,2,"La vaca muestra buen apetito, signo positivo."
+6874,1,Paracetamol,Cólico,2024-01-27,2024-02-10,7,"La vaca muestra buen apetito, signo positivo."
+3732,1,Amoxicilina,Mastitis,2024-02-01,2024-02-13,6,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Gripe,2024-04-18,2024-05-16,1,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Paracetamol,Mastitis,2024-02-18,2024-03-16,9,
+5373,1,Paracetamol,Mastitis,2024-01-29,2024-02-13,9,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Cólico,2024-03-20,2024-04-05,4,
+5373,1,Ibuprofeno,Mastitis,2024-04-22,2024-05-04,8,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Amoxicilina,Cólico,2024-01-21,2024-01-26,6,"La vaca muestra buen apetito, signo positivo."
+3732,1,Amoxicilina,Cólico,2024-01-16,2024-02-12,3,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Mastitis,2024-04-09,2024-04-14,6,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Mastitis,2024-03-24,2024-03-31,1,
+7744,1,Ibuprofeno,Mastitis,2024-04-14,2024-05-11,5,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Cólico,2024-02-29,2024-03-20,7,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Cólico,2024-03-27,2024-04-09,3,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Mastitis,2024-04-16,2024-05-06,7,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Cólico,2024-02-07,2024-03-07,2,
+4264,1,Paracetamol,Mastitis,2024-01-21,2024-02-17,5,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Cólico,2024-03-18,2024-04-11,8,
+4264,1,Ibuprofeno,Cólico,2024-03-16,2024-04-04,4,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Gripe,2024-01-22,2024-01-29,8,"La vaca muestra buen apetito, signo positivo."
+5373,1,Paracetamol,Gripe,2024-01-29,2024-02-06,1,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Mastitis,2024-01-27,2024-02-02,6,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Gripe,2024-03-17,2024-04-01,3,
+3732,1,Ibuprofeno,Cólico,2024-04-03,2024-04-12,9,"Tratamiento en curso, seguir protocolo."
+4468,1,Amoxicilina,Mastitis,2024-04-10,2024-04-15,6,
+1705,1,Paracetamol,Gripe,2024-03-14,2024-04-12,1,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Mastitis,2024-03-04,2024-03-27,7,
+8891,1,Ibuprofeno,Mastitis,2024-02-29,2024-03-11,1,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Ibuprofeno,Cólico,2024-02-18,2024-03-17,2,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-02-11,2024-02-28,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Cólico,2024-02-25,2024-03-16,5,Mantener en observación por posibles recaídas.
+5859,1,Amoxicilina,Mastitis,2024-02-10,2024-03-09,7,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Mastitis,2024-03-05,2024-04-03,1,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Ibuprofeno,Mastitis,2024-04-06,2024-04-27,8,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Gripe,2024-03-05,2024-03-28,5,
+5373,1,Paracetamol,Cólico,2024-01-25,2024-02-12,4,
+3732,1,Amoxicilina,Cólico,2024-01-27,2024-02-02,4,"La vaca muestra buen apetito, signo positivo."
+1705,1,Paracetamol,Gripe,2024-02-26,2024-03-24,4,
+8891,1,Paracetamol,Cólico,2024-02-09,2024-02-17,3,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Cólico,2024-01-24,2024-02-04,2,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Mastitis,2024-04-10,2024-04-22,4,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Mastitis,2024-03-23,2024-04-17,9,Mantener en observación por posibles recaídas.
+4264,1,Ibuprofeno,Mastitis,2024-04-02,2024-04-23,2,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Gripe,2024-01-17,2024-02-15,9,
+1705,1,Paracetamol,Mastitis,2024-04-22,2024-04-29,9,"Tratamiento en curso, seguir protocolo."
+7744,1,Amoxicilina,Cólico,2024-01-18,2024-02-02,5,"Tratamiento en curso, seguir protocolo."
+5373,1,Amoxicilina,Gripe,2024-03-11,2024-04-04,7,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Cólico,2024-02-28,2024-03-06,4,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Gripe,2024-02-13,2024-03-13,7,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Cólico,2024-03-20,2024-03-25,6,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Gripe,2024-01-20,2024-01-31,9,"La vaca muestra buen apetito, signo positivo."
+7744,1,Paracetamol,Cólico,2024-03-08,2024-03-26,1,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Mastitis,2024-01-24,2024-02-04,8,"La vaca muestra buen apetito, signo positivo."
+4468,1,Ibuprofeno,Gripe,2024-04-06,2024-04-26,7,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Cólico,2024-04-11,2024-04-21,5,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Cólico,2024-03-02,2024-03-20,9,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Paracetamol,Cólico,2024-03-07,2024-03-21,5,Mantener en observación por posibles recaídas.
+3599,1,Paracetamol,Cólico,2024-03-15,2024-04-12,6,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Mastitis,2024-03-06,2024-03-30,6,Mantener en observación por posibles recaídas.
+4468,1,Paracetamol,Mastitis,2024-02-28,2024-03-26,7,"La vaca muestra buen apetito, signo positivo."
+6874,1,Amoxicilina,Gripe,2024-03-29,2024-04-27,8,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Paracetamol,Gripe,2024-02-19,2024-03-08,4,
+1705,1,Amoxicilina,Cólico,2024-02-23,2024-03-20,9,
+3732,1,Ibuprofeno,Gripe,2024-03-24,2024-04-11,2,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Amoxicilina,Cólico,2024-01-22,2024-01-29,2,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-01-27,2024-02-25,9,
+7744,1,Amoxicilina,Gripe,2024-02-04,2024-02-18,2,"La vaca muestra buen apetito, signo positivo."
+3599,1,Ibuprofeno,Cólico,2024-03-16,2024-03-22,5,
+8891,1,Paracetamol,Mastitis,2024-01-28,2024-02-15,9,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Cólico,2024-03-06,2024-03-31,4,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Ibuprofeno,Mastitis,2024-04-16,2024-04-21,2,
+3732,1,Amoxicilina,Gripe,2024-03-17,2024-04-05,7,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Mastitis,2024-02-17,2024-02-26,5,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Cólico,2024-02-06,2024-02-18,6,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Gripe,2024-04-03,2024-04-24,1,
+7744,1,Amoxicilina,Mastitis,2024-03-08,2024-03-22,8,"La vaca muestra buen apetito, signo positivo."
+4264,1,Paracetamol,Mastitis,2024-01-21,2024-02-07,7,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Cólico,2024-03-22,2024-04-13,7,
+5859,1,Amoxicilina,Gripe,2024-03-02,2024-03-11,8,Mantener en observación por posibles recaídas.
+3599,1,Ibuprofeno,Gripe,2024-02-28,2024-03-20,3,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-25,2,Mantener en observación por posibles recaídas.
+3599,1,Paracetamol,Mastitis,2024-02-27,2024-03-19,2,Mantener en observación por posibles recaídas.
+4264,1,Paracetamol,Mastitis,2024-04-01,2024-04-09,6,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Gripe,2024-01-28,2024-02-10,3,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Amoxicilina,Mastitis,2024-02-23,2024-03-21,2,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Mastitis,2024-03-20,2024-03-27,2,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Gripe,2024-02-22,2024-02-27,5,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Gripe,2024-02-29,2024-03-11,1,"Tratamiento en curso, seguir protocolo."
+5373,1,Amoxicilina,Cólico,2024-03-16,2024-04-11,4,
+3599,1,Amoxicilina,Gripe,2024-01-29,2024-02-25,7,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Gripe,2024-01-22,2024-02-13,6,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Cólico,2024-03-06,2024-03-15,6,
+5859,1,Paracetamol,Gripe,2024-03-20,2024-03-29,5,"Tratamiento en curso, seguir protocolo."
+4468,1,Amoxicilina,Cólico,2024-02-22,2024-02-29,8,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Gripe,2024-02-18,2024-03-05,6,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Cólico,2024-02-29,2024-03-15,2,"La vaca muestra buen apetito, signo positivo."
+3599,1,Paracetamol,Mastitis,2024-04-06,2024-04-13,3,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Mastitis,2024-03-02,2024-03-18,3,Mantener en observación por posibles recaídas.
+7744,1,Paracetamol,Mastitis,2024-03-20,2024-04-06,2,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Cólico,2024-03-11,2024-04-05,2,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Mastitis,2024-04-10,2024-04-24,2,
+8891,1,Ibuprofeno,Gripe,2024-04-06,2024-04-14,5,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Cólico,2024-03-23,2024-04-16,9,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Gripe,2024-04-02,2024-04-13,3,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Amoxicilina,Gripe,2024-01-16,2024-01-31,6,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Gripe,2024-04-22,2024-05-13,8,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Cólico,2024-02-14,2024-02-27,2,
+7744,1,Ibuprofeno,Gripe,2024-03-07,2024-03-17,2,
+6874,1,Paracetamol,Mastitis,2024-03-16,2024-04-05,8,
+3599,1,Amoxicilina,Cólico,2024-02-20,2024-03-01,1,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Mastitis,2024-03-23,2024-04-15,2,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Cólico,2024-01-22,2024-01-27,7,"La vaca muestra buen apetito, signo positivo."
+5859,1,Paracetamol,Gripe,2024-02-15,2024-02-24,9,
+4468,1,Amoxicilina,Mastitis,2024-03-17,2024-03-22,7,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Cólico,2024-04-16,2024-04-26,8,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Gripe,2024-02-16,2024-03-10,8,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Gripe,2024-02-29,2024-03-18,3,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Cólico,2024-04-02,2024-04-26,6,
+6874,1,Amoxicilina,Cólico,2024-04-02,2024-04-09,5,
+7744,1,Paracetamol,Cólico,2024-02-26,2024-03-17,3,"Tratamiento en curso, seguir protocolo."
+5373,1,Ibuprofeno,Cólico,2024-01-24,2024-02-06,2,
+5859,1,Ibuprofeno,Mastitis,2024-02-17,2024-03-02,7,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Cólico,2024-01-22,2024-01-27,4,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Paracetamol,Gripe,2024-03-07,2024-03-18,5,"La vaca muestra buen apetito, signo positivo."
+3732,1,Amoxicilina,Mastitis,2024-03-22,2024-03-27,6,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Amoxicilina,Gripe,2024-03-21,2024-04-04,7,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Gripe,2024-02-25,2024-03-18,4,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Cólico,2024-03-22,2024-03-30,8,"Tratamiento en curso, seguir protocolo."
+1705,1,Paracetamol,Mastitis,2024-04-06,2024-04-16,9,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Cólico,2024-04-14,2024-05-06,5,"La vaca muestra buen apetito, signo positivo."
+3732,1,Amoxicilina,Gripe,2024-03-10,2024-04-02,2,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Cólico,2024-01-28,2024-02-15,5,
+1705,1,Ibuprofeno,Cólico,2024-04-18,2024-05-04,8,
+4264,1,Amoxicilina,Cólico,2024-01-28,2024-02-02,4,
+3732,1,Ibuprofeno,Cólico,2024-04-14,2024-05-10,3,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Cólico,2024-02-18,2024-02-29,8,
+1705,1,Ibuprofeno,Cólico,2024-02-22,2024-03-10,5,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Mastitis,2024-04-18,2024-05-02,5,"La vaca muestra buen apetito, signo positivo."
+8891,1,Ibuprofeno,Cólico,2024-02-15,2024-03-08,9,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Mastitis,2024-04-16,2024-05-03,1,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Cólico,2024-02-29,2024-03-23,8,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-15,8,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-03-03,2024-03-23,9,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Paracetamol,Mastitis,2024-03-16,2024-04-12,6,"La vaca muestra buen apetito, signo positivo."
+7744,1,Paracetamol,Mastitis,2024-04-10,2024-04-22,1,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-04-12,2024-04-17,1,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Cólico,2024-01-27,2024-02-06,9,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Cólico,2024-02-29,2024-03-09,8,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Mastitis,2024-03-01,2024-03-13,9,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Cólico,2024-02-08,2024-02-26,3,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Cólico,2024-03-14,2024-03-30,5,"Tratamiento en curso, seguir protocolo."
+3599,1,Ibuprofeno,Gripe,2024-01-19,2024-01-28,7,"La vaca muestra buen apetito, signo positivo."
+5373,1,Paracetamol,Cólico,2024-04-20,2024-05-01,1,"Tratamiento en curso, seguir protocolo."
+7744,1,Paracetamol,Cólico,2024-02-22,2024-03-04,8,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Mastitis,2024-04-21,2024-05-04,9,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Cólico,2024-02-12,2024-02-23,6,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Cólico,2024-04-21,2024-05-12,5,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Mastitis,2024-03-29,2024-04-05,4,"Tratamiento en curso, seguir protocolo."
+1705,1,Paracetamol,Mastitis,2024-03-08,2024-03-29,6,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Mastitis,2024-04-18,2024-04-23,9,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Cólico,2024-04-07,2024-05-06,4,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Cólico,2024-04-15,2024-04-24,8,
+7744,1,Amoxicilina,Cólico,2024-02-02,2024-02-07,7,"La vaca muestra buen apetito, signo positivo."
+3732,1,Amoxicilina,Cólico,2024-01-22,2024-02-13,4,
+3599,1,Paracetamol,Cólico,2024-02-05,2024-02-26,2,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Cólico,2024-02-27,2024-03-11,6,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Mastitis,2024-04-17,2024-05-13,3,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Mastitis,2024-02-06,2024-02-29,7,
+6874,1,Amoxicilina,Cólico,2024-02-27,2024-03-27,9,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Gripe,2024-01-22,2024-02-12,2,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Mastitis,2024-04-20,2024-05-16,6,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Cólico,2024-02-24,2024-03-10,8,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Mastitis,2024-04-19,2024-04-24,7,
+6874,1,Paracetamol,Gripe,2024-04-23,2024-05-06,5,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Mastitis,2024-02-08,2024-02-18,4,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Mastitis,2024-03-16,2024-03-27,9,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Mastitis,2024-04-17,2024-05-02,8,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Mastitis,2024-04-03,2024-04-21,5,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Cólico,2024-02-13,2024-03-09,8,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Gripe,2024-04-07,2024-05-02,8,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Cólico,2024-02-19,2024-03-08,5,"La vaca muestra buen apetito, signo positivo."
+5373,1,Amoxicilina,Mastitis,2024-02-16,2024-02-23,7,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Mastitis,2024-02-14,2024-02-23,3,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Paracetamol,Mastitis,2024-02-22,2024-03-14,8,
+1705,1,Ibuprofeno,Gripe,2024-03-15,2024-04-03,4,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Gripe,2024-02-24,2024-03-24,1,
+6874,1,Ibuprofeno,Cólico,2024-02-03,2024-02-09,8,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Mastitis,2024-01-25,2024-02-06,6,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Gripe,2024-01-20,2024-02-05,8,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Mastitis,2024-03-27,2024-04-14,1,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Amoxicilina,Cólico,2024-02-08,2024-02-17,4,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Cólico,2024-02-19,2024-02-25,2,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Gripe,2024-03-21,2024-04-07,1,
+5859,1,Ibuprofeno,Cólico,2024-03-29,2024-04-19,9,"Tratamiento en curso, seguir protocolo."
+4264,1,Amoxicilina,Gripe,2024-03-02,2024-03-12,3,
+4264,1,Amoxicilina,Mastitis,2024-04-09,2024-04-15,5,"La vaca muestra buen apetito, signo positivo."
+4468,1,Paracetamol,Gripe,2024-03-06,2024-03-19,4,
+6874,1,Ibuprofeno,Cólico,2024-03-20,2024-03-26,6,Mantener en observación por posibles recaídas.
+3732,1,Amoxicilina,Mastitis,2024-03-14,2024-04-10,4,
+5373,1,Ibuprofeno,Cólico,2024-03-04,2024-03-09,5,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Mastitis,2024-02-21,2024-02-26,4,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Mastitis,2024-03-11,2024-03-18,4,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Mastitis,2024-03-16,2024-03-31,8,
+7744,1,Paracetamol,Mastitis,2024-04-04,2024-04-25,7,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Cólico,2024-03-12,2024-04-09,5,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Amoxicilina,Gripe,2024-01-16,2024-01-23,9,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Mastitis,2024-04-02,2024-04-14,9,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Cólico,2024-04-03,2024-04-13,2,
+3599,1,Ibuprofeno,Cólico,2024-01-24,2024-02-11,2,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Cólico,2024-03-19,2024-04-13,6,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Amoxicilina,Gripe,2024-03-27,2024-04-01,1,"La vaca muestra buen apetito, signo positivo."
+3599,1,Ibuprofeno,Cólico,2024-04-20,2024-05-02,5,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Cólico,2024-01-25,2024-02-23,7,Mantener en observación por posibles recaídas.
+7744,1,Paracetamol,Gripe,2024-04-16,2024-04-22,4,"Tratamiento en curso, seguir protocolo."
+3599,1,Ibuprofeno,Cólico,2024-04-19,2024-04-27,3,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Cólico,2024-04-19,2024-04-26,4,
+5373,1,Amoxicilina,Gripe,2024-03-01,2024-03-08,1,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Gripe,2024-04-14,2024-05-10,6,
+8891,1,Ibuprofeno,Gripe,2024-02-15,2024-03-14,1,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Mastitis,2024-03-21,2024-04-12,3,
+6874,1,Ibuprofeno,Gripe,2024-03-05,2024-03-15,3,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Mastitis,2024-02-09,2024-02-17,9,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Mastitis,2024-03-31,2024-04-26,9,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Gripe,2024-02-26,2024-03-08,1,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Mastitis,2024-01-18,2024-02-11,9,Mantener en observación por posibles recaídas.
+4264,1,Paracetamol,Cólico,2024-02-06,2024-03-04,8,
+4468,1,Ibuprofeno,Cólico,2024-04-02,2024-04-30,2,"La vaca muestra buen apetito, signo positivo."
+4264,1,Amoxicilina,Gripe,2024-01-22,2024-02-17,7,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Mastitis,2024-03-31,2024-04-17,7,Mantener en observación por posibles recaídas.
+5373,1,Ibuprofeno,Cólico,2024-04-18,2024-05-15,3,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Mastitis,2024-02-22,2024-03-08,3,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Mastitis,2024-04-21,2024-05-10,2,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Cólico,2024-04-23,2024-05-10,4,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Gripe,2024-04-14,2024-04-28,6,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Mastitis,2024-02-12,2024-02-22,6,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Cólico,2024-03-25,2024-04-06,3,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Gripe,2024-04-02,2024-04-28,2,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Mastitis,2024-02-03,2024-02-27,7,
+5859,1,Amoxicilina,Mastitis,2024-02-05,2024-02-20,3,
+7744,1,Paracetamol,Mastitis,2024-01-31,2024-02-24,6,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Mastitis,2024-03-17,2024-04-05,2,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Gripe,2024-01-24,2024-02-18,5,"La vaca muestra buen apetito, signo positivo."
+5373,1,Paracetamol,Mastitis,2024-02-07,2024-02-28,4,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Cólico,2024-02-04,2024-02-10,4,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Cólico,2024-01-31,2024-02-24,2,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Cólico,2024-04-05,2024-04-24,6,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Gripe,2024-02-17,2024-03-02,5,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Cólico,2024-04-07,2024-04-24,4,
+3599,1,Ibuprofeno,Mastitis,2024-02-08,2024-02-16,4,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Mastitis,2024-04-14,2024-04-22,8,
+4264,1,Ibuprofeno,Cólico,2024-02-10,2024-02-23,9,
+6874,1,Paracetamol,Gripe,2024-03-24,2024-04-22,5,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Gripe,2024-04-01,2024-04-25,4,Mantener en observación por posibles recaídas.
+3732,1,Amoxicilina,Mastitis,2024-04-03,2024-04-16,3,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Mastitis,2024-01-31,2024-02-18,5,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Cólico,2024-02-15,2024-03-04,6,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Gripe,2024-02-04,2024-02-21,4,"La vaca muestra buen apetito, signo positivo."
+5859,1,Ibuprofeno,Cólico,2024-03-21,2024-04-15,5,"Tratamiento en curso, seguir protocolo."
+1705,1,Amoxicilina,Mastitis,2024-02-19,2024-03-09,5,
+5859,1,Ibuprofeno,Mastitis,2024-04-08,2024-04-29,2,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Amoxicilina,Cólico,2024-02-06,2024-02-24,4,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Amoxicilina,Gripe,2024-04-14,2024-04-25,2,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Mastitis,2024-03-05,2024-03-21,9,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Mastitis,2024-04-13,2024-04-26,3,"La vaca muestra buen apetito, signo positivo."
+1705,1,Paracetamol,Gripe,2024-03-20,2024-03-31,9,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Mastitis,2024-03-15,2024-04-08,2,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Paracetamol,Gripe,2024-03-06,2024-03-25,7,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Gripe,2024-03-10,2024-03-29,2,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Mastitis,2024-04-22,2024-05-05,2,"La vaca muestra buen apetito, signo positivo."
+8891,1,Amoxicilina,Cólico,2024-02-11,2024-02-27,2,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Mastitis,2024-04-23,2024-04-30,5,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Paracetamol,Mastitis,2024-04-12,2024-05-11,5,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Mastitis,2024-03-28,2024-04-17,8,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Mastitis,2024-01-20,2024-02-18,1,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Cólico,2024-03-12,2024-04-10,2,"La vaca muestra buen apetito, signo positivo."
+3599,1,Paracetamol,Cólico,2024-04-04,2024-04-11,8,"Tratamiento en curso, seguir protocolo."
+7744,1,Ibuprofeno,Cólico,2024-01-29,2024-02-08,8,
+8891,1,Amoxicilina,Gripe,2024-04-22,2024-05-07,7,"Tratamiento en curso, seguir protocolo."
+5859,1,Paracetamol,Cólico,2024-02-23,2024-03-05,3,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Gripe,2024-02-01,2024-02-11,3,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Mastitis,2024-01-22,2024-02-20,3,"Tratamiento en curso, seguir protocolo."
+7744,1,Amoxicilina,Cólico,2024-02-21,2024-03-02,8,"La vaca muestra buen apetito, signo positivo."
+5373,1,Amoxicilina,Cólico,2024-04-12,2024-05-01,2,"La vaca muestra buen apetito, signo positivo."
+7744,1,Paracetamol,Cólico,2024-03-05,2024-04-03,7,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Cólico,2024-02-20,2024-02-27,8,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Paracetamol,Cólico,2024-04-14,2024-04-30,7,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Mastitis,2024-03-30,2024-04-20,3,
+5859,1,Amoxicilina,Cólico,2024-02-15,2024-03-09,2,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Gripe,2024-03-28,2024-04-14,9,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-03-02,2024-03-07,4,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Paracetamol,Cólico,2024-02-29,2024-03-07,1,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Gripe,2024-01-29,2024-02-03,9,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Cólico,2024-02-05,2024-03-05,8,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Mastitis,2024-03-25,2024-04-15,3,Mantener en observación por posibles recaídas.
+4264,1,Paracetamol,Gripe,2024-04-22,2024-05-01,4,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Cólico,2024-02-05,2024-02-14,2,Mantener en observación por posibles recaídas.
+7744,1,Amoxicilina,Gripe,2024-04-23,2024-05-01,4,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Cólico,2024-04-08,2024-04-18,6,
+7744,1,Ibuprofeno,Gripe,2024-03-21,2024-04-13,5,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Paracetamol,Mastitis,2024-03-22,2024-04-06,4,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Gripe,2024-02-14,2024-03-10,3,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Gripe,2024-03-24,2024-04-14,7,Mantener en observación por posibles recaídas.
+5859,1,Amoxicilina,Gripe,2024-03-07,2024-03-25,1,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Paracetamol,Gripe,2024-02-25,2024-03-16,9,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Amoxicilina,Cólico,2024-02-10,2024-02-20,1,Mantener en observación por posibles recaídas.
+3599,1,Paracetamol,Mastitis,2024-04-16,2024-04-30,9,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Mastitis,2024-03-24,2024-04-19,5,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Gripe,2024-01-29,2024-02-26,4,
+6874,1,Amoxicilina,Gripe,2024-03-24,2024-04-11,7,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Paracetamol,Mastitis,2024-03-13,2024-04-10,9,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Mastitis,2024-04-15,2024-04-21,5,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Mastitis,2024-02-18,2024-03-05,3,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Ibuprofeno,Mastitis,2024-01-29,2024-02-05,5,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Gripe,2024-04-15,2024-05-14,6,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Mastitis,2024-03-05,2024-03-23,8,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Gripe,2024-02-19,2024-03-02,3,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Gripe,2024-01-23,2024-02-21,4,"Tratamiento en curso, seguir protocolo."
+6874,1,Amoxicilina,Mastitis,2024-03-04,2024-03-10,2,
+7744,1,Amoxicilina,Cólico,2024-03-06,2024-03-14,7,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Gripe,2024-01-25,2024-02-17,2,
+3732,1,Amoxicilina,Mastitis,2024-03-25,2024-04-13,7,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Ibuprofeno,Gripe,2024-02-12,2024-02-25,6,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Cólico,2024-03-28,2024-04-25,1,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Mastitis,2024-01-19,2024-01-25,8,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Gripe,2024-04-09,2024-04-24,8,Mantener en observación por posibles recaídas.
+4264,1,Ibuprofeno,Cólico,2024-04-04,2024-04-24,6,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Cólico,2024-04-15,2024-05-05,2,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Gripe,2024-03-15,2024-03-29,1,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Mastitis,2024-03-25,2024-04-12,4,
+3732,1,Paracetamol,Mastitis,2024-03-31,2024-04-11,9,
+3732,1,Ibuprofeno,Gripe,2024-02-06,2024-02-11,4,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Cólico,2024-03-14,2024-04-12,3,"Tratamiento en curso, seguir protocolo."
+7744,1,Paracetamol,Cólico,2024-04-22,2024-05-17,2,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Cólico,2024-01-25,2024-02-05,2,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Cólico,2024-01-26,2024-02-14,9,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Gripe,2024-03-24,2024-04-04,7,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Cólico,2024-03-13,2024-03-19,2,Mantener en observación por posibles recaídas.
+5373,1,Ibuprofeno,Gripe,2024-02-03,2024-02-22,1,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Mastitis,2024-02-21,2024-03-16,1,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Paracetamol,Mastitis,2024-02-08,2024-02-13,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Cólico,2024-02-12,2024-03-02,9,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Cólico,2024-01-29,2024-02-10,7,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Amoxicilina,Cólico,2024-01-26,2024-02-17,3,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Mastitis,2024-03-17,2024-03-29,9,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Amoxicilina,Gripe,2024-03-11,2024-03-17,2,
+3732,1,Ibuprofeno,Gripe,2024-02-24,2024-03-05,9,
+4468,1,Amoxicilina,Gripe,2024-03-18,2024-03-28,3,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Cólico,2024-03-22,2024-04-02,8,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-02-10,2024-02-28,9,
+3732,1,Paracetamol,Cólico,2024-04-07,2024-05-05,1,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Ibuprofeno,Mastitis,2024-03-19,2024-04-05,2,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Gripe,2024-04-20,2024-05-04,2,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Cólico,2024-03-15,2024-04-02,2,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Gripe,2024-03-17,2024-04-14,3,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Mastitis,2024-04-20,2024-05-19,9,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Amoxicilina,Gripe,2024-03-14,2024-03-28,8,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Gripe,2024-02-25,2024-03-05,7,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Amoxicilina,Mastitis,2024-04-22,2024-05-02,2,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Cólico,2024-04-20,2024-05-19,9,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Cólico,2024-04-12,2024-04-28,2,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Cólico,2024-04-20,2024-05-17,8,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Gripe,2024-02-24,2024-03-24,5,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-04-11,2024-04-21,9,
+4264,1,Paracetamol,Cólico,2024-01-18,2024-01-31,9,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Cólico,2024-03-15,2024-03-28,5,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Gripe,2024-03-04,2024-03-29,1,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Paracetamol,Cólico,2024-04-23,2024-05-19,8,"Tratamiento en curso, seguir protocolo."
+4468,1,Amoxicilina,Cólico,2024-02-29,2024-03-07,3,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Gripe,2024-02-29,2024-03-19,1,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Mastitis,2024-01-27,2024-02-02,7,"La vaca muestra buen apetito, signo positivo."
+7744,1,Ibuprofeno,Gripe,2024-02-12,2024-03-01,9,Mantener en observación por posibles recaídas.
+5859,1,Paracetamol,Cólico,2024-02-24,2024-03-01,6,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Ibuprofeno,Cólico,2024-02-18,2024-03-01,8,"Tratamiento en curso, seguir protocolo."
+3732,1,Paracetamol,Mastitis,2024-01-16,2024-02-02,4,
+5859,1,Ibuprofeno,Mastitis,2024-04-10,2024-04-24,6,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Gripe,2024-02-27,2024-03-17,1,"Tratamiento en curso, seguir protocolo."
+4468,1,Amoxicilina,Mastitis,2024-03-24,2024-04-10,4,
+5859,1,Ibuprofeno,Cólico,2024-01-29,2024-02-26,1,"Tratamiento en curso, seguir protocolo."
+7744,1,Amoxicilina,Cólico,2024-02-02,2024-02-23,9,"La vaca muestra buen apetito, signo positivo."
+4264,1,Paracetamol,Cólico,2024-03-31,2024-04-27,5,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Cólico,2024-03-19,2024-03-27,9,Mantener en observación por posibles recaídas.
+4468,1,Paracetamol,Mastitis,2024-03-21,2024-03-28,4,Mantener en observación por posibles recaídas.
+3732,1,Paracetamol,Cólico,2024-04-17,2024-04-23,1,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Cólico,2024-03-30,2024-04-21,7,
+5373,1,Amoxicilina,Cólico,2024-03-20,2024-04-05,4,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Gripe,2024-02-26,2024-03-18,4,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Gripe,2024-02-10,2024-03-09,1,
+8891,1,Amoxicilina,Cólico,2024-03-30,2024-04-13,7,Mantener en observación por posibles recaídas.
+1705,1,Ibuprofeno,Mastitis,2024-01-21,2024-02-18,6,Mantener en observación por posibles recaídas.
+3732,1,Amoxicilina,Mastitis,2024-04-18,2024-05-09,3,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Gripe,2024-03-06,2024-03-14,6,"La vaca muestra buen apetito, signo positivo."
+6874,1,Amoxicilina,Gripe,2024-03-29,2024-04-12,2,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Mastitis,2024-02-15,2024-03-13,2,"La vaca muestra buen apetito, signo positivo."
+4264,1,Amoxicilina,Gripe,2024-03-16,2024-04-05,9,
+6874,1,Amoxicilina,Gripe,2024-04-23,2024-05-18,5,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Ibuprofeno,Cólico,2024-02-24,2024-03-24,1,
+7744,1,Amoxicilina,Mastitis,2024-02-05,2024-02-11,9,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Cólico,2024-02-10,2024-03-06,5,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Gripe,2024-03-04,2024-03-30,8,"La vaca muestra buen apetito, signo positivo."
+7744,1,Ibuprofeno,Gripe,2024-03-26,2024-04-04,6,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-04-08,2024-04-25,8,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Gripe,2024-02-17,2024-03-05,5,"Tratamiento en curso, seguir protocolo."
+5373,1,Amoxicilina,Mastitis,2024-03-18,2024-03-25,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Amoxicilina,Mastitis,2024-04-16,2024-05-13,2,
+7744,1,Ibuprofeno,Mastitis,2024-02-02,2024-02-21,2,"Tratamiento en curso, seguir protocolo."
+6874,1,Paracetamol,Mastitis,2024-03-23,2024-04-16,9,"La vaca muestra buen apetito, signo positivo."
+3599,1,Amoxicilina,Cólico,2024-03-11,2024-04-03,1,"La vaca muestra buen apetito, signo positivo."
+1705,1,Amoxicilina,Cólico,2024-03-13,2024-03-20,7,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Cólico,2024-02-04,2024-02-12,6,"La vaca muestra buen apetito, signo positivo."
+8891,1,Ibuprofeno,Gripe,2024-03-26,2024-03-31,7,"La vaca muestra buen apetito, signo positivo."
+1705,1,Paracetamol,Mastitis,2024-02-29,2024-03-21,1,"Tratamiento en curso, seguir protocolo."
+4264,1,Amoxicilina,Mastitis,2024-03-02,2024-03-21,5,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Mastitis,2024-03-12,2024-04-08,7,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Cólico,2024-03-23,2024-04-17,5,
+3732,1,Ibuprofeno,Gripe,2024-01-28,2024-02-05,2,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Gripe,2024-02-26,2024-03-02,1,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Gripe,2024-03-31,2024-04-16,5,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Cólico,2024-02-15,2024-03-07,4,"La vaca muestra buen apetito, signo positivo."
+4468,1,Paracetamol,Mastitis,2024-02-19,2024-03-19,9,
+1705,1,Ibuprofeno,Cólico,2024-04-06,2024-04-19,4,
+3732,1,Ibuprofeno,Mastitis,2024-02-13,2024-02-27,8,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Amoxicilina,Gripe,2024-02-15,2024-02-22,8,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Mastitis,2024-02-08,2024-02-27,4,
+3599,1,Paracetamol,Gripe,2024-01-18,2024-02-12,3,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Gripe,2024-02-03,2024-02-18,5,Mantener en observación por posibles recaídas.
+7744,1,Amoxicilina,Gripe,2024-04-21,2024-04-30,8,"La vaca muestra buen apetito, signo positivo."
+1705,1,Paracetamol,Mastitis,2024-02-09,2024-02-23,8,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Ibuprofeno,Cólico,2024-03-15,2024-04-02,7,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Gripe,2024-03-16,2024-04-01,8,
+3599,1,Paracetamol,Mastitis,2024-02-29,2024-03-13,2,"La vaca muestra buen apetito, signo positivo."
+4264,1,Paracetamol,Gripe,2024-04-23,2024-05-03,1,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Mastitis,2024-04-14,2024-04-27,2,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Cólico,2024-02-08,2024-02-15,9,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Gripe,2024-03-10,2024-03-27,9,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Gripe,2024-03-02,2024-03-29,2,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Gripe,2024-02-02,2024-02-13,8,"Tratamiento en curso, seguir protocolo."
+7744,1,Paracetamol,Cólico,2024-03-07,2024-03-28,5,"La vaca muestra buen apetito, signo positivo."
+4264,1,Amoxicilina,Mastitis,2024-02-14,2024-03-07,2,"La vaca muestra buen apetito, signo positivo."
+4468,1,Ibuprofeno,Gripe,2024-03-06,2024-04-01,9,Mantener en observación por posibles recaídas.
+4468,1,Ibuprofeno,Gripe,2024-03-16,2024-04-09,1,
+3732,1,Paracetamol,Cólico,2024-03-18,2024-03-26,3,
+4468,1,Amoxicilina,Mastitis,2024-04-19,2024-04-28,7,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Cólico,2024-02-08,2024-02-23,5,
+3732,1,Amoxicilina,Cólico,2024-03-15,2024-04-06,6,"Tratamiento en curso, seguir protocolo."
+5373,1,Ibuprofeno,Gripe,2024-01-21,2024-02-13,7,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Mastitis,2024-02-21,2024-03-01,1,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Ibuprofeno,Gripe,2024-03-09,2024-04-07,7,
+6874,1,Ibuprofeno,Gripe,2024-02-08,2024-02-28,5,
+5859,1,Paracetamol,Cólico,2024-03-12,2024-04-03,8,
+1705,1,Paracetamol,Cólico,2024-03-22,2024-04-09,2,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Gripe,2024-04-22,2024-05-16,9,
+7744,1,Amoxicilina,Cólico,2024-03-07,2024-03-28,6,"La vaca muestra buen apetito, signo positivo."
+7744,1,Paracetamol,Cólico,2024-03-20,2024-04-17,9,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Mastitis,2024-03-12,2024-03-25,6,"Tratamiento en curso, seguir protocolo."
+4264,1,Amoxicilina,Gripe,2024-03-12,2024-03-30,6,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Gripe,2024-02-09,2024-02-25,1,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Mastitis,2024-03-12,2024-03-19,8,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Cólico,2024-03-08,2024-03-30,9,"La vaca muestra buen apetito, signo positivo."
+6874,1,Paracetamol,Mastitis,2024-02-04,2024-02-15,6,Mantener en observación por posibles recaídas.
+7744,1,Ibuprofeno,Mastitis,2024-01-24,2024-02-22,1,"La vaca muestra buen apetito, signo positivo."
+8891,1,Amoxicilina,Mastitis,2024-03-14,2024-03-21,8,
+1705,1,Ibuprofeno,Cólico,2024-02-03,2024-02-19,9,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Mastitis,2024-03-11,2024-03-30,7,Mantener en observación por posibles recaídas.
+5373,1,Paracetamol,Gripe,2024-01-22,2024-02-04,1,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Cólico,2024-02-19,2024-03-12,1,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Mastitis,2024-02-20,2024-03-03,5,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Mastitis,2024-03-10,2024-03-24,6,"Tratamiento en curso, seguir protocolo."
+5373,1,Amoxicilina,Mastitis,2024-04-21,2024-05-07,5,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Mastitis,2024-04-01,2024-04-26,2,
+1705,1,Paracetamol,Mastitis,2024-03-30,2024-04-08,4,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Mastitis,2024-03-10,2024-03-25,5,"La vaca muestra buen apetito, signo positivo."
+8891,1,Paracetamol,Gripe,2024-01-31,2024-02-07,7,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Cólico,2024-01-20,2024-02-14,1,Mantener en observación por posibles recaídas.
+5373,1,Ibuprofeno,Gripe,2024-02-06,2024-02-18,5,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Mastitis,2024-04-16,2024-05-10,2,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Mastitis,2024-01-31,2024-02-25,2,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Mastitis,2024-03-01,2024-03-13,2,"La vaca muestra buen apetito, signo positivo."
+6874,1,Amoxicilina,Gripe,2024-02-21,2024-02-26,7,"Tratamiento en curso, seguir protocolo."
+5373,1,Amoxicilina,Mastitis,2024-03-25,2024-04-03,7,"Tratamiento en curso, seguir protocolo."
+3599,1,Ibuprofeno,Gripe,2024-01-30,2024-02-24,2,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Cólico,2024-04-15,2024-05-14,4,
+6874,1,Amoxicilina,Gripe,2024-02-09,2024-02-24,4,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Amoxicilina,Gripe,2024-03-13,2024-04-10,7,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Cólico,2024-03-20,2024-04-02,5,"Tratamiento en curso, seguir protocolo."
+6874,1,Ibuprofeno,Mastitis,2024-03-08,2024-03-25,5,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Ibuprofeno,Gripe,2024-02-22,2024-03-19,2,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Cólico,2024-02-08,2024-02-19,5,Mantener en observación por posibles recaídas.
+5373,1,Amoxicilina,Gripe,2024-02-11,2024-02-18,4,"Tratamiento en curso, seguir protocolo."
+5859,1,Amoxicilina,Gripe,2024-02-28,2024-03-15,6,"Inicio leve, se observa mejoría con el tratamiento."
+5859,1,Ibuprofeno,Cólico,2024-01-29,2024-02-15,5,"Tratamiento en curso, seguir protocolo."
+4264,1,Ibuprofeno,Gripe,2024-02-15,2024-03-06,1,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Cólico,2024-03-07,2024-03-20,2,"Tratamiento en curso, seguir protocolo."
+3732,1,Amoxicilina,Gripe,2024-04-16,2024-04-29,2,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Paracetamol,Mastitis,2024-02-27,2024-03-27,2,"La vaca muestra buen apetito, signo positivo."
+3599,1,Paracetamol,Cólico,2024-01-29,2024-02-16,8,"La vaca muestra buen apetito, signo positivo."
+4264,1,Ibuprofeno,Mastitis,2024-01-28,2024-02-02,9,
+7744,1,Ibuprofeno,Gripe,2024-02-13,2024-02-18,3,
+3599,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-24,6,Mantener en observación por posibles recaídas.
+1705,1,Ibuprofeno,Cólico,2024-03-11,2024-04-02,3,"Tratamiento en curso, seguir protocolo."
+7744,1,Paracetamol,Gripe,2024-02-13,2024-03-01,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Paracetamol,Cólico,2024-01-18,2024-02-08,1,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Gripe,2024-01-28,2024-02-23,8,Mantener en observación por posibles recaídas.
+4468,1,Paracetamol,Mastitis,2024-04-02,2024-05-01,4,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Mastitis,2024-04-12,2024-04-28,5,"Tratamiento en curso, seguir protocolo."
+5859,1,Paracetamol,Cólico,2024-03-11,2024-03-31,2,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Amoxicilina,Cólico,2024-02-16,2024-03-11,7,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Gripe,2024-01-18,2024-01-23,5,
+4468,1,Paracetamol,Cólico,2024-03-25,2024-04-13,7,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Cólico,2024-04-02,2024-04-11,2,"La vaca muestra buen apetito, signo positivo."
+5373,1,Paracetamol,Mastitis,2024-02-02,2024-02-25,9,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Cólico,2024-02-14,2024-03-07,2,
+7744,1,Ibuprofeno,Cólico,2024-01-23,2024-02-05,1,
+4468,1,Ibuprofeno,Gripe,2024-04-22,2024-05-01,3,
+8891,1,Ibuprofeno,Mastitis,2024-03-21,2024-04-05,2,
+7744,1,Paracetamol,Mastitis,2024-03-14,2024-03-20,9,"Tratamiento en curso, seguir protocolo."
+3599,1,Paracetamol,Gripe,2024-03-11,2024-04-07,6,
+8891,1,Amoxicilina,Mastitis,2024-03-03,2024-03-09,6,
+4468,1,Ibuprofeno,Gripe,2024-01-20,2024-02-08,9,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Amoxicilina,Gripe,2024-02-01,2024-02-24,9,Mantener en observación por posibles recaídas.
+8891,1,Paracetamol,Cólico,2024-02-29,2024-03-08,2,"La vaca muestra buen apetito, signo positivo."
+4468,1,Paracetamol,Cólico,2024-02-04,2024-02-25,6,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Gripe,2024-03-03,2024-03-28,1,"La vaca muestra buen apetito, signo positivo."
+1705,1,Paracetamol,Cólico,2024-03-09,2024-03-19,6,"La vaca muestra buen apetito, signo positivo."
+5373,1,Ibuprofeno,Cólico,2024-01-21,2024-01-29,1,Mantener en observación por posibles recaídas.
+6874,1,Amoxicilina,Mastitis,2024-04-19,2024-05-09,4,"Tratamiento en curso, seguir protocolo."
+8891,1,Ibuprofeno,Mastitis,2024-02-27,2024-03-16,7,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Paracetamol,Cólico,2024-03-06,2024-03-19,6,Mantener en observación por posibles recaídas.
+3599,1,Paracetamol,Gripe,2024-04-03,2024-04-15,1,
+7744,1,Paracetamol,Gripe,2024-04-07,2024-04-23,6,
+5859,1,Amoxicilina,Cólico,2024-03-01,2024-03-14,5,"La vaca muestra buen apetito, signo positivo."
+3599,1,Ibuprofeno,Cólico,2024-01-29,2024-02-11,3,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Gripe,2024-02-17,2024-03-11,9,"La vaca muestra buen apetito, signo positivo."
+6874,1,Paracetamol,Mastitis,2024-04-03,2024-04-13,6,
+4468,1,Ibuprofeno,Mastitis,2024-02-27,2024-03-22,4,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Gripe,2024-03-30,2024-04-27,8,Mantener en observación por posibles recaídas.
+3732,1,Ibuprofeno,Cólico,2024-03-11,2024-03-22,1,"Inicio leve, se observa mejoría con el tratamiento."
+4468,1,Paracetamol,Mastitis,2024-01-30,2024-02-23,1,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Gripe,2024-02-20,2024-03-01,3,Mantener en observación por posibles recaídas.
+5859,1,Ibuprofeno,Cólico,2024-04-08,2024-04-24,6,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Cólico,2024-01-17,2024-02-06,4,
+3732,1,Paracetamol,Mastitis,2024-03-30,2024-04-16,4,"Inicio leve, se observa mejoría con el tratamiento."
+6874,1,Paracetamol,Cólico,2024-01-26,2024-02-21,3,Mantener en observación por posibles recaídas.
+1705,1,Paracetamol,Gripe,2024-01-23,2024-02-01,2,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Amoxicilina,Gripe,2024-02-22,2024-03-01,3,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Amoxicilina,Gripe,2024-04-20,2024-05-13,3,
+5859,1,Ibuprofeno,Gripe,2024-04-04,2024-04-26,4,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Cólico,2024-04-11,2024-04-28,3,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Amoxicilina,Gripe,2024-03-10,2024-04-06,5,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Mastitis,2024-02-09,2024-02-26,6,Mantener en observación por posibles recaídas.
+4468,1,Amoxicilina,Cólico,2024-04-14,2024-04-19,4,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Cólico,2024-02-20,2024-02-25,2,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Cólico,2024-01-22,2024-02-02,3,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Gripe,2024-03-08,2024-03-16,4,Mantener en observación por posibles recaídas.
+6874,1,Ibuprofeno,Cólico,2024-01-19,2024-02-02,9,
+4264,1,Amoxicilina,Gripe,2024-01-27,2024-02-09,4,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Paracetamol,Gripe,2024-04-10,2024-05-04,2,"La vaca muestra buen apetito, signo positivo."
+4468,1,Amoxicilina,Cólico,2024-02-14,2024-02-22,8,Mantener en observación por posibles recaídas.
+5859,1,Amoxicilina,Cólico,2024-03-09,2024-03-24,2,"Tratamiento en curso, seguir protocolo."
+4264,1,Paracetamol,Gripe,2024-04-16,2024-05-14,1,"La vaca muestra buen apetito, signo positivo."
+3732,1,Ibuprofeno,Cólico,2024-03-13,2024-04-07,2,"La vaca muestra buen apetito, signo positivo."
+4264,1,Paracetamol,Cólico,2024-04-07,2024-04-24,9,"La vaca muestra buen apetito, signo positivo."
+3732,1,Paracetamol,Gripe,2024-03-04,2024-03-17,3,"La vaca muestra buen apetito, signo positivo."
+4264,1,Paracetamol,Gripe,2024-03-15,2024-03-26,1,"Inicio leve, se observa mejoría con el tratamiento."
+4264,1,Ibuprofeno,Cólico,2024-03-19,2024-04-15,7,"Inicio leve, se observa mejoría con el tratamiento."
+7744,1,Amoxicilina,Gripe,2024-03-26,2024-04-07,5,"La vaca muestra buen apetito, signo positivo."
+1705,1,Paracetamol,Gripe,2024-02-02,2024-02-25,2,"Tratamiento en curso, seguir protocolo."
+1705,1,Ibuprofeno,Mastitis,2024-03-17,2024-04-12,8,Mantener en observación por posibles recaídas.
+8891,1,Ibuprofeno,Cólico,2024-04-22,2024-05-12,4,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Cólico,2024-02-02,2024-02-11,2,"La vaca muestra buen apetito, signo positivo."
+3732,1,Amoxicilina,Cólico,2024-03-24,2024-04-09,4,Mantener en observación por posibles recaídas.
+4468,1,Paracetamol,Cólico,2024-03-20,2024-04-05,4,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Ibuprofeno,Cólico,2024-04-20,2024-05-07,3,"La vaca muestra buen apetito, signo positivo."
+7744,1,Amoxicilina,Gripe,2024-03-21,2024-03-26,8,"La vaca muestra buen apetito, signo positivo."
+3732,1,Paracetamol,Cólico,2024-03-11,2024-03-21,4,"La vaca muestra buen apetito, signo positivo."
+6874,1,Ibuprofeno,Cólico,2024-01-25,2024-02-05,2,"La vaca muestra buen apetito, signo positivo."
+8891,1,Ibuprofeno,Mastitis,2024-04-22,2024-05-10,4,Mantener en observación por posibles recaídas.
+8891,1,Amoxicilina,Gripe,2024-01-16,2024-02-12,9,"Inicio leve, se observa mejoría con el tratamiento."
+3599,1,Ibuprofeno,Cólico,2024-02-27,2024-03-27,4,"Tratamiento en curso, seguir protocolo."
+5373,1,Ibuprofeno,Cólico,2024-03-05,2024-03-15,7,Mantener en observación por posibles recaídas.
+3599,1,Amoxicilina,Cólico,2024-03-14,2024-04-06,5,"Tratamiento en curso, seguir protocolo."
+3732,1,Ibuprofeno,Cólico,2024-02-01,2024-02-18,8,"Tratamiento en curso, seguir protocolo."
+7744,1,Ibuprofeno,Gripe,2024-03-13,2024-04-01,6,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Mastitis,2024-02-29,2024-03-08,8,"Inicio leve, se observa mejoría con el tratamiento."
+8891,1,Ibuprofeno,Mastitis,2024-01-29,2024-02-26,3,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Amoxicilina,Cólico,2024-03-07,2024-03-21,3,"Inicio leve, se observa mejoría con el tratamiento."
+3732,1,Ibuprofeno,Mastitis,2024-01-22,2024-02-15,2,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Mastitis,2024-02-18,2024-02-28,4,Mantener en observación por posibles recaídas.
+5859,1,Amoxicilina,Mastitis,2024-03-13,2024-03-19,3,
+3732,1,Ibuprofeno,Mastitis,2024-03-16,2024-03-22,6,Mantener en observación por posibles recaídas.
+5859,1,Amoxicilina,Mastitis,2024-04-11,2024-04-16,8,
+5859,1,Paracetamol,Gripe,2024-02-04,2024-02-29,1,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Gripe,2024-03-26,2024-04-15,7,Mantener en observación por posibles recaídas.
+7744,1,Paracetamol,Gripe,2024-03-29,2024-04-13,7,
+4468,1,Amoxicilina,Mastitis,2024-03-01,2024-03-18,2,"Inicio leve, se observa mejoría con el tratamiento."
+1705,1,Ibuprofeno,Gripe,2024-01-28,2024-02-15,1,"Tratamiento en curso, seguir protocolo."
+3599,1,Amoxicilina,Mastitis,2024-02-20,2024-02-28,7,Mantener en observación por posibles recaídas.
+1705,1,Amoxicilina,Mastitis,2024-01-23,2024-02-16,6,"La vaca muestra buen apetito, signo positivo."
+5859,1,Amoxicilina,Gripe,2024-02-06,2024-03-02,8,"Tratamiento en curso, seguir protocolo."
+5373,1,Paracetamol,Cólico,2024-03-21,2024-04-05,7,"Tratamiento en curso, seguir protocolo."
+4468,1,Paracetamol,Mastitis,2024-02-05,2024-02-29,7,
+4468,1,Paracetamol,Mastitis,2024-04-15,2024-04-29,8,Mantener en observación por posibles recaídas.
+6874,1,Paracetamol,Gripe,2024-02-15,2024-02-25,2,
+4468,1,Paracetamol,Mastitis,2024-03-08,2024-03-26,8,"Tratamiento en curso, seguir protocolo."
+5859,1,Ibuprofeno,Mastitis,2024-01-29,2024-02-11,8,"Inicio leve, se observa mejoría con el tratamiento."
+5373,1,Amoxicilina,Mastitis,2024-03-09,2024-03-31,4,Mantener en observación por posibles recaídas.
+4264,1,Amoxicilina,Gripe,2024-01-22,2024-02-09,9,Mantener en observación por posibles recaídas.
+4264,1,Ibuprofeno,Cólico,2024-04-01,2024-04-09,8,Mantener en observación por posibles recaídas.
 4264,1,Ibuprofeno,Cólico,2024-04-09,2024-04-14,8,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Cólico,2024-01-23,2024-01-30,4,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Mastitis,2024-03-11,2024-04-02,2,
-3599,1,Ibuprofeno,Gripe,2024-02-10,2024-02-25,1,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Mastitis,2024-03-02,2024-03-27,7,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-03-07,2024-03-18,2,"La vaca muestra buen apetito, signo positivo."
-7744,1,Paracetamol,Gripe,2024-01-16,2024-01-24,6,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Mastitis,2024-02-14,2024-02-27,5,
-5859,1,Ibuprofeno,Cólico,2024-02-20,2024-03-08,7,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Gripe,2024-03-09,2024-03-21,4,
-8891,1,Amoxicilina,Mastitis,2024-02-12,2024-03-09,2,"Tratamiento en curso, seguir protocolo."
-6874,1,Amoxicilina,Mastitis,2024-02-26,2024-03-02,8,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Mastitis,2024-02-16,2024-03-03,8,
-5373,1,Ibuprofeno,Gripe,2024-02-08,2024-02-15,9,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Cólico,2024-02-19,2024-02-25,1,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Cólico,2024-01-17,2024-02-07,1,"La vaca muestra buen apetito, signo positivo."
-5373,1,Paracetamol,Mastitis,2024-01-13,2024-01-29,3,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Gripe,2024-03-08,2024-03-18,7,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Cólico,2024-02-04,2024-02-23,2,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Mastitis,2024-02-24,2024-03-11,6,
-5373,1,Paracetamol,Cólico,2024-04-10,2024-05-08,2,"La vaca muestra buen apetito, signo positivo."
-1705,1,Ibuprofeno,Cólico,2024-03-01,2024-03-16,8,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Gripe,2024-02-08,2024-03-03,4,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Mastitis,2024-03-07,2024-03-16,4,"La vaca muestra buen apetito, signo positivo."
-4468,1,Paracetamol,Cólico,2024-03-20,2024-04-14,3,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Ibuprofeno,Cólico,2024-01-23,2024-02-04,5,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Gripe,2024-04-06,2024-04-12,6,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Gripe,2024-04-14,2024-05-12,5,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Cólico,2024-03-30,2024-04-27,7,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Gripe,2024-03-13,2024-04-11,9,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Gripe,2024-03-02,2024-03-12,1,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Mastitis,2024-03-31,2024-04-27,7,
-3732,1,Amoxicilina,Mastitis,2024-03-21,2024-04-12,8,
-6874,1,Paracetamol,Cólico,2024-02-23,2024-03-15,7,
-3732,1,Ibuprofeno,Cólico,2024-02-04,2024-02-25,6,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Cólico,2024-03-29,2024-04-03,5,
-5859,1,Paracetamol,Gripe,2024-02-06,2024-02-29,8,
-5373,1,Paracetamol,Mastitis,2024-02-06,2024-02-14,4,"La vaca muestra buen apetito, signo positivo."
-5859,1,Ibuprofeno,Cólico,2024-03-05,2024-03-11,7,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Mastitis,2024-03-04,2024-03-15,4,
-8891,1,Paracetamol,Gripe,2024-03-02,2024-03-27,8,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Mastitis,2024-03-14,2024-03-19,9,
-3732,1,Ibuprofeno,Gripe,2024-03-15,2024-03-28,5,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Cólico,2024-02-03,2024-03-03,9,
-6874,1,Ibuprofeno,Gripe,2024-02-08,2024-02-19,3,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Gripe,2024-01-16,2024-02-01,7,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Gripe,2024-03-02,2024-03-11,7,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Paracetamol,Gripe,2024-03-16,2024-04-11,6,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Ibuprofeno,Cólico,2024-01-25,2024-02-04,8,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Mastitis,2024-03-09,2024-03-21,9,
-3599,1,Ibuprofeno,Cólico,2024-03-18,2024-04-15,3,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Cólico,2024-01-13,2024-02-06,3,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Gripe,2024-03-01,2024-03-16,1,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Cólico,2024-04-16,2024-04-26,9,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Gripe,2024-03-16,2024-03-26,2,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Mastitis,2024-02-14,2024-02-23,8,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Gripe,2024-03-03,2024-03-18,6,
-4264,1,Paracetamol,Mastitis,2024-02-22,2024-03-10,8,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Cólico,2024-02-13,2024-03-05,6,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Gripe,2024-01-23,2024-02-02,7,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Mastitis,2024-03-26,2024-04-13,3,"La vaca muestra buen apetito, signo positivo."
-5373,1,Amoxicilina,Cólico,2024-03-21,2024-04-06,8,Mantener en observación por posibles recaídas.
-7744,1,Amoxicilina,Mastitis,2024-04-12,2024-05-09,8,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Gripe,2024-03-13,2024-03-28,5,"La vaca muestra buen apetito, signo positivo."
-5859,1,Paracetamol,Mastitis,2024-03-13,2024-03-25,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Mastitis,2024-02-10,2024-02-15,4,"La vaca muestra buen apetito, signo positivo."
-3732,1,Ibuprofeno,Mastitis,2024-03-20,2024-04-18,6,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Cólico,2024-01-17,2024-02-07,6,Mantener en observación por posibles recaídas.
-7744,1,Paracetamol,Mastitis,2024-04-08,2024-05-06,7,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Mastitis,2024-03-05,2024-04-03,2,"Tratamiento en curso, seguir protocolo."
-7744,1,Ibuprofeno,Mastitis,2024-04-14,2024-05-13,3,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Mastitis,2024-04-06,2024-05-01,1,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Gripe,2024-02-26,2024-03-16,3,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Gripe,2024-01-22,2024-01-27,6,
-1705,1,Paracetamol,Cólico,2024-04-13,2024-05-02,3,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Paracetamol,Mastitis,2024-03-19,2024-03-27,1,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Cólico,2024-02-17,2024-03-15,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Mastitis,2024-03-04,2024-03-24,9,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Amoxicilina,Gripe,2024-04-15,2024-04-28,4,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Mastitis,2024-01-14,2024-01-22,2,Mantener en observación por posibles recaídas.
-1705,1,Ibuprofeno,Cólico,2024-02-08,2024-02-17,1,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Mastitis,2024-03-01,2024-03-26,7,"La vaca muestra buen apetito, signo positivo."
-8891,1,Ibuprofeno,Gripe,2024-02-01,2024-02-20,5,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Cólico,2024-03-31,2024-04-09,7,
-5859,1,Paracetamol,Mastitis,2024-01-29,2024-02-20,5,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Gripe,2024-02-21,2024-03-16,2,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Mastitis,2024-03-07,2024-04-05,4,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Gripe,2024-03-24,2024-04-22,7,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Cólico,2024-01-23,2024-01-31,3,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Cólico,2024-04-14,2024-05-07,9,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Mastitis,2024-02-17,2024-02-23,9,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Gripe,2024-03-02,2024-03-19,3,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Cólico,2024-03-17,2024-04-11,4,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Mastitis,2024-02-07,2024-02-19,3,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Mastitis,2024-02-26,2024-03-24,2,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Mastitis,2024-01-11,2024-01-28,2,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Gripe,2024-03-01,2024-03-30,6,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Mastitis,2024-04-06,2024-04-26,7,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Gripe,2024-02-15,2024-02-20,2,
-3599,1,Ibuprofeno,Mastitis,2024-04-09,2024-04-15,8,"Tratamiento en curso, seguir protocolo."
-7744,1,Ibuprofeno,Gripe,2024-02-15,2024-03-04,7,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Mastitis,2024-04-14,2024-04-20,3,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Mastitis,2024-02-22,2024-03-01,3,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Gripe,2024-02-23,2024-03-06,7,
-1705,1,Paracetamol,Cólico,2024-03-07,2024-04-05,9,"La vaca muestra buen apetito, signo positivo."
-3732,1,Ibuprofeno,Cólico,2024-02-23,2024-03-03,6,
-5373,1,Paracetamol,Cólico,2024-03-23,2024-04-03,7,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Gripe,2024-04-11,2024-04-18,6,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Cólico,2024-02-06,2024-02-24,3,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Mastitis,2024-02-14,2024-02-25,9,"La vaca muestra buen apetito, signo positivo."
-4468,1,Amoxicilina,Gripe,2024-01-15,2024-02-04,6,"Tratamiento en curso, seguir protocolo."
-1705,1,Paracetamol,Cólico,2024-02-08,2024-02-29,9,
-1705,1,Amoxicilina,Mastitis,2024-03-10,2024-03-31,9,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Mastitis,2024-02-10,2024-03-04,1,"Tratamiento en curso, seguir protocolo."
-5859,1,Paracetamol,Gripe,2024-04-10,2024-04-24,1,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Cólico,2024-03-05,2024-03-10,5,"Tratamiento en curso, seguir protocolo."
-7744,1,Ibuprofeno,Mastitis,2024-03-25,2024-04-14,5,"La vaca muestra buen apetito, signo positivo."
-7744,1,Ibuprofeno,Cólico,2024-01-20,2024-02-15,6,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Mastitis,2024-03-19,2024-04-09,3,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Mastitis,2024-02-26,2024-03-12,8,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-03-31,2024-04-09,7,"La vaca muestra buen apetito, signo positivo."
-1705,1,Ibuprofeno,Cólico,2024-02-21,2024-03-04,2,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Mastitis,2024-03-05,2024-04-02,8,
-8891,1,Ibuprofeno,Cólico,2024-03-15,2024-04-06,3,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Cólico,2024-02-29,2024-03-13,1,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Cólico,2024-01-30,2024-02-10,7,Mantener en observación por posibles recaídas.
-7744,1,Amoxicilina,Gripe,2024-03-06,2024-03-24,8,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Mastitis,2024-01-28,2024-02-07,4,
-7744,1,Amoxicilina,Cólico,2024-04-16,2024-05-08,4,
-6874,1,Ibuprofeno,Gripe,2024-02-24,2024-03-05,7,
-4468,1,Ibuprofeno,Cólico,2024-02-13,2024-02-22,2,"La vaca muestra buen apetito, signo positivo."
-3732,1,Paracetamol,Gripe,2024-02-21,2024-02-28,2,
-1705,1,Paracetamol,Cólico,2024-04-02,2024-04-29,6,
-5373,1,Paracetamol,Cólico,2024-01-28,2024-02-19,2,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Cólico,2024-02-05,2024-02-11,2,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Gripe,2024-03-28,2024-04-09,4,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Gripe,2024-02-16,2024-03-05,7,
-5859,1,Paracetamol,Mastitis,2024-02-14,2024-02-24,6,
-8891,1,Ibuprofeno,Mastitis,2024-02-23,2024-03-03,3,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Gripe,2024-03-05,2024-03-27,2,"La vaca muestra buen apetito, signo positivo."
-4468,1,Amoxicilina,Mastitis,2024-03-23,2024-04-12,4,"Tratamiento en curso, seguir protocolo."
-6874,1,Amoxicilina,Gripe,2024-04-17,2024-05-13,3,"La vaca muestra buen apetito, signo positivo."
-8891,1,Amoxicilina,Gripe,2024-02-28,2024-03-11,2,"Tratamiento en curso, seguir protocolo."
-5373,1,Ibuprofeno,Gripe,2024-03-09,2024-03-22,1,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Mastitis,2024-04-15,2024-05-08,1,
-8891,1,Paracetamol,Cólico,2024-02-07,2024-03-03,6,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Mastitis,2024-04-14,2024-04-26,5,"Tratamiento en curso, seguir protocolo."
-4468,1,Amoxicilina,Cólico,2024-03-18,2024-03-25,4,"La vaca muestra buen apetito, signo positivo."
-3599,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-17,9,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Amoxicilina,Cólico,2024-03-28,2024-04-20,3,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Cólico,2024-02-02,2024-02-24,1,
-4468,1,Paracetamol,Gripe,2024-04-06,2024-04-19,5,
-8891,1,Amoxicilina,Mastitis,2024-04-12,2024-04-24,9,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Cólico,2024-04-01,2024-04-07,4,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Mastitis,2024-01-31,2024-02-08,8,"La vaca muestra buen apetito, signo positivo."
-3599,1,Ibuprofeno,Gripe,2024-02-15,2024-03-12,6,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Gripe,2024-04-09,2024-04-29,2,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Cólico,2024-03-21,2024-04-19,4,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Gripe,2024-04-11,2024-05-03,1,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Mastitis,2024-03-06,2024-03-30,5,"Tratamiento en curso, seguir protocolo."
-5859,1,Paracetamol,Gripe,2024-04-13,2024-04-19,2,
-5859,1,Paracetamol,Gripe,2024-04-02,2024-04-17,4,
-1705,1,Paracetamol,Gripe,2024-02-17,2024-03-11,5,"La vaca muestra buen apetito, signo positivo."
-4264,1,Amoxicilina,Gripe,2024-04-17,2024-04-29,9,"La vaca muestra buen apetito, signo positivo."
-6874,1,Paracetamol,Mastitis,2024-03-09,2024-03-25,9,
-1705,1,Paracetamol,Mastitis,2024-03-11,2024-03-21,6,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Amoxicilina,Cólico,2024-04-11,2024-04-24,1,"La vaca muestra buen apetito, signo positivo."
-3732,1,Paracetamol,Gripe,2024-01-15,2024-01-25,4,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Cólico,2024-02-19,2024-03-14,6,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Cólico,2024-03-23,2024-03-30,9,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Mastitis,2024-02-01,2024-02-27,1,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Gripe,2024-02-13,2024-02-22,6,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Gripe,2024-02-15,2024-03-15,6,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Mastitis,2024-02-25,2024-03-02,9,"La vaca muestra buen apetito, signo positivo."
-4264,1,Amoxicilina,Mastitis,2024-02-27,2024-03-03,3,"La vaca muestra buen apetito, signo positivo."
-3732,1,Paracetamol,Mastitis,2024-02-28,2024-03-28,1,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Gripe,2024-03-20,2024-04-07,8,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Cólico,2024-02-06,2024-02-26,8,"La vaca muestra buen apetito, signo positivo."
-1705,1,Ibuprofeno,Cólico,2024-02-12,2024-03-12,1,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Gripe,2024-02-27,2024-03-07,4,
-5373,1,Ibuprofeno,Cólico,2024-04-10,2024-04-15,2,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Gripe,2024-03-22,2024-03-31,1,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Gripe,2024-03-08,2024-03-31,9,
-8891,1,Amoxicilina,Mastitis,2024-02-16,2024-03-15,1,
-4468,1,Ibuprofeno,Gripe,2024-02-29,2024-03-25,7,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Mastitis,2024-03-26,2024-04-04,3,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Mastitis,2024-04-03,2024-04-13,2,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Cólico,2024-02-14,2024-03-04,4,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Mastitis,2024-01-13,2024-02-09,5,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Cólico,2024-01-23,2024-02-12,6,
-4264,1,Paracetamol,Gripe,2024-02-25,2024-03-20,2,Mantener en observación por posibles recaídas.
-5373,1,Ibuprofeno,Cólico,2024-04-10,2024-04-27,7,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Paracetamol,Cólico,2024-03-12,2024-03-24,2,
-6874,1,Ibuprofeno,Cólico,2024-01-28,2024-02-02,4,
-6874,1,Paracetamol,Gripe,2024-02-07,2024-03-03,9,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Gripe,2024-03-28,2024-04-22,3,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Mastitis,2024-03-10,2024-03-20,7,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Gripe,2024-04-13,2024-04-28,1,
-4468,1,Amoxicilina,Mastitis,2024-04-01,2024-04-30,5,
-4468,1,Paracetamol,Gripe,2024-01-10,2024-01-26,5,"La vaca muestra buen apetito, signo positivo."
-7744,1,Ibuprofeno,Cólico,2024-02-21,2024-03-18,1,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Mastitis,2024-04-03,2024-04-14,4,"La vaca muestra buen apetito, signo positivo."
-7744,1,Ibuprofeno,Gripe,2024-04-02,2024-04-08,4,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Gripe,2024-01-20,2024-02-14,7,
-5859,1,Ibuprofeno,Gripe,2024-04-03,2024-04-21,8,
-8891,1,Ibuprofeno,Cólico,2024-04-07,2024-04-27,7,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Mastitis,2024-04-13,2024-05-03,8,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Mastitis,2024-01-24,2024-02-09,2,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Mastitis,2024-02-25,2024-03-22,7,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Gripe,2024-02-02,2024-02-10,9,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Mastitis,2024-02-24,2024-03-09,3,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Amoxicilina,Mastitis,2024-01-15,2024-02-11,6,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Gripe,2024-02-10,2024-03-10,1,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Gripe,2024-03-04,2024-04-01,3,Mantener en observación por posibles recaídas.
-4264,1,Paracetamol,Gripe,2024-01-18,2024-01-27,6,Mantener en observación por posibles recaídas.
-3599,1,Paracetamol,Gripe,2024-01-17,2024-02-14,4,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Cólico,2024-04-15,2024-05-14,1,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Cólico,2024-02-17,2024-03-10,6,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Mastitis,2024-02-11,2024-03-07,3,"La vaca muestra buen apetito, signo positivo."
-5373,1,Amoxicilina,Cólico,2024-03-25,2024-04-04,4,"Tratamiento en curso, seguir protocolo."
-1705,1,Paracetamol,Gripe,2024-03-20,2024-04-15,4,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Paracetamol,Cólico,2024-02-24,2024-03-14,1,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Gripe,2024-03-30,2024-04-23,7,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Cólico,2024-02-18,2024-03-02,7,
-1705,1,Amoxicilina,Gripe,2024-02-12,2024-02-20,2,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Ibuprofeno,Mastitis,2024-02-09,2024-02-19,7,"Tratamiento en curso, seguir protocolo."
-4468,1,Ibuprofeno,Mastitis,2024-03-12,2024-03-20,6,
-3732,1,Paracetamol,Cólico,2024-01-27,2024-02-21,7,
-8891,1,Amoxicilina,Gripe,2024-03-24,2024-04-04,3,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Ibuprofeno,Mastitis,2024-01-19,2024-01-25,1,"La vaca muestra buen apetito, signo positivo."
-4468,1,Ibuprofeno,Gripe,2024-02-01,2024-02-15,2,Mantener en observación por posibles recaídas.
-4468,1,Paracetamol,Cólico,2024-03-14,2024-03-31,9,"La vaca muestra buen apetito, signo positivo."
-4264,1,Paracetamol,Gripe,2024-01-23,2024-02-20,1,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Gripe,2024-02-21,2024-03-19,5,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Cólico,2024-02-14,2024-02-24,9,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Mastitis,2024-02-04,2024-02-11,3,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Cólico,2024-03-12,2024-03-31,8,
-5373,1,Amoxicilina,Gripe,2024-03-07,2024-03-31,9,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Cólico,2024-04-11,2024-04-21,1,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Cólico,2024-03-31,2024-04-29,7,
-7744,1,Ibuprofeno,Gripe,2024-03-17,2024-03-25,5,Mantener en observación por posibles recaídas.
-5373,1,Ibuprofeno,Cólico,2024-04-11,2024-05-01,1,
-5859,1,Amoxicilina,Mastitis,2024-02-27,2024-03-04,6,"Tratamiento en curso, seguir protocolo."
-5373,1,Amoxicilina,Mastitis,2024-04-01,2024-04-28,8,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Cólico,2024-03-18,2024-04-02,2,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Gripe,2024-03-20,2024-04-01,3,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Cólico,2024-02-02,2024-02-15,1,
-4468,1,Ibuprofeno,Cólico,2024-03-16,2024-04-07,9,
-1705,1,Paracetamol,Mastitis,2024-01-19,2024-01-31,6,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Ibuprofeno,Mastitis,2024-03-10,2024-04-03,7,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Gripe,2024-03-19,2024-03-31,7,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Gripe,2024-04-15,2024-04-29,4,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Paracetamol,Gripe,2024-01-25,2024-02-19,3,
-5373,1,Amoxicilina,Cólico,2024-02-01,2024-02-07,5,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Cólico,2024-03-30,2024-04-21,2,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Cólico,2024-02-13,2024-03-13,9,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Cólico,2024-03-07,2024-03-22,7,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-03-26,2024-04-12,3,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Gripe,2024-03-31,2024-04-20,6,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Gripe,2024-03-06,2024-03-13,2,"Tratamiento en curso, seguir protocolo."
-5859,1,Paracetamol,Cólico,2024-04-13,2024-04-18,7,"La vaca muestra buen apetito, signo positivo."
-6874,1,Amoxicilina,Cólico,2024-04-13,2024-05-12,7,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Gripe,2024-03-30,2024-04-25,1,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Mastitis,2024-02-08,2024-02-18,4,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Gripe,2024-04-03,2024-04-27,8,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Cólico,2024-04-07,2024-04-12,1,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Cólico,2024-02-27,2024-03-20,7,
-4468,1,Paracetamol,Gripe,2024-01-15,2024-02-12,9,
-4264,1,Ibuprofeno,Mastitis,2024-01-25,2024-02-13,3,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Mastitis,2024-03-14,2024-04-08,9,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Cólico,2024-04-14,2024-04-23,2,
-3732,1,Ibuprofeno,Cólico,2024-04-09,2024-04-18,4,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Cólico,2024-01-18,2024-02-04,5,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Gripe,2024-01-26,2024-02-12,5,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Cólico,2024-02-09,2024-02-18,2,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Cólico,2024-04-10,2024-04-30,2,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Cólico,2024-01-15,2024-01-25,6,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Mastitis,2024-03-13,2024-04-09,7,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Mastitis,2024-01-29,2024-02-27,9,"Tratamiento en curso, seguir protocolo."
-4468,1,Ibuprofeno,Cólico,2024-03-02,2024-03-20,2,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Ibuprofeno,Mastitis,2024-03-03,2024-03-28,1,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Mastitis,2024-02-10,2024-03-06,1,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Mastitis,2024-02-19,2024-03-02,1,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Mastitis,2024-04-14,2024-05-03,3,Mantener en observación por posibles recaídas.
-1705,1,Ibuprofeno,Gripe,2024-02-07,2024-03-06,9,Mantener en observación por posibles recaídas.
-7744,1,Paracetamol,Mastitis,2024-02-11,2024-03-07,2,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Mastitis,2024-03-24,2024-04-03,1,"La vaca muestra buen apetito, signo positivo."
-3599,1,Paracetamol,Mastitis,2024-02-22,2024-03-05,9,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Mastitis,2024-02-18,2024-02-27,2,
-8891,1,Amoxicilina,Gripe,2024-03-13,2024-04-02,7,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-04-14,2024-04-28,1,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Cólico,2024-02-06,2024-02-16,9,"La vaca muestra buen apetito, signo positivo."
-4468,1,Amoxicilina,Mastitis,2024-03-21,2024-03-27,9,"La vaca muestra buen apetito, signo positivo."
-5373,1,Amoxicilina,Mastitis,2024-02-11,2024-03-07,1,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Cólico,2024-02-06,2024-02-11,9,
-5859,1,Paracetamol,Gripe,2024-04-07,2024-04-13,4,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Cólico,2024-02-14,2024-03-09,4,Mantener en observación por posibles recaídas.
-1705,1,Ibuprofeno,Gripe,2024-04-12,2024-04-26,1,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Cólico,2024-03-08,2024-03-15,8,
-4468,1,Ibuprofeno,Cólico,2024-01-22,2024-02-12,5,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Paracetamol,Mastitis,2024-02-25,2024-03-24,3,"Tratamiento en curso, seguir protocolo."
-5373,1,Ibuprofeno,Cólico,2024-03-05,2024-03-28,2,
-5373,1,Ibuprofeno,Gripe,2024-02-12,2024-02-27,7,Mantener en observación por posibles recaídas.
-4264,1,Paracetamol,Gripe,2024-04-11,2024-05-02,3,"La vaca muestra buen apetito, signo positivo."
-4468,1,Paracetamol,Cólico,2024-03-20,2024-04-11,4,
-7744,1,Amoxicilina,Gripe,2024-04-12,2024-04-25,5,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Amoxicilina,Cólico,2024-02-03,2024-02-25,8,
-5373,1,Ibuprofeno,Mastitis,2024-04-10,2024-05-02,3,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Mastitis,2024-03-19,2024-03-29,1,
-6874,1,Ibuprofeno,Mastitis,2024-01-26,2024-02-09,2,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Mastitis,2024-03-01,2024-03-12,7,
-4468,1,Paracetamol,Cólico,2024-02-17,2024-03-05,9,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Gripe,2024-02-14,2024-02-25,8,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Cólico,2024-02-11,2024-03-02,8,
-6874,1,Ibuprofeno,Gripe,2024-03-07,2024-04-05,2,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Cólico,2024-03-19,2024-03-25,4,
-8891,1,Paracetamol,Gripe,2024-01-12,2024-01-31,3,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Gripe,2024-02-28,2024-03-09,8,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Cólico,2024-02-17,2024-03-02,3,
-4468,1,Paracetamol,Mastitis,2024-02-25,2024-03-06,9,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Cólico,2024-03-23,2024-04-03,8,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Mastitis,2024-03-12,2024-03-28,7,
-3599,1,Ibuprofeno,Cólico,2024-03-29,2024-04-19,4,
-7744,1,Paracetamol,Gripe,2024-01-12,2024-02-05,6,
-3732,1,Ibuprofeno,Mastitis,2024-01-17,2024-02-14,1,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Gripe,2024-03-22,2024-04-14,5,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Gripe,2024-02-21,2024-03-13,6,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Gripe,2024-02-21,2024-03-06,7,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Paracetamol,Cólico,2024-03-20,2024-04-04,6,
-5373,1,Paracetamol,Gripe,2024-03-03,2024-03-17,2,"La vaca muestra buen apetito, signo positivo."
-6874,1,Paracetamol,Cólico,2024-01-21,2024-02-04,7,"La vaca muestra buen apetito, signo positivo."
-3732,1,Amoxicilina,Mastitis,2024-01-26,2024-02-07,6,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Gripe,2024-04-12,2024-05-10,1,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Paracetamol,Mastitis,2024-02-12,2024-03-10,9,
-5373,1,Paracetamol,Mastitis,2024-01-23,2024-02-07,9,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Cólico,2024-03-14,2024-03-30,4,
-5373,1,Ibuprofeno,Mastitis,2024-04-16,2024-04-28,8,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Amoxicilina,Cólico,2024-01-15,2024-01-20,6,"La vaca muestra buen apetito, signo positivo."
-3732,1,Amoxicilina,Cólico,2024-01-10,2024-02-06,3,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Mastitis,2024-04-03,2024-04-08,6,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Mastitis,2024-03-18,2024-03-25,1,
-7744,1,Ibuprofeno,Mastitis,2024-04-08,2024-05-05,5,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Cólico,2024-02-23,2024-03-14,7,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Cólico,2024-03-21,2024-04-03,3,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Mastitis,2024-04-10,2024-04-30,7,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Cólico,2024-02-01,2024-03-01,2,
-4264,1,Paracetamol,Mastitis,2024-01-15,2024-02-11,5,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Cólico,2024-03-12,2024-04-05,8,
-4264,1,Ibuprofeno,Cólico,2024-03-10,2024-03-29,4,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Gripe,2024-01-16,2024-01-23,8,"La vaca muestra buen apetito, signo positivo."
-5373,1,Paracetamol,Gripe,2024-01-23,2024-01-31,1,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Mastitis,2024-01-21,2024-01-27,6,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Gripe,2024-03-11,2024-03-26,3,
-3732,1,Ibuprofeno,Cólico,2024-03-28,2024-04-06,9,"Tratamiento en curso, seguir protocolo."
-4468,1,Amoxicilina,Mastitis,2024-04-04,2024-04-09,6,
-1705,1,Paracetamol,Gripe,2024-03-08,2024-04-06,1,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Mastitis,2024-02-27,2024-03-21,7,
-8891,1,Ibuprofeno,Mastitis,2024-02-23,2024-03-05,1,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Ibuprofeno,Cólico,2024-02-12,2024-03-11,2,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-02-05,2024-02-22,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Cólico,2024-02-19,2024-03-10,5,Mantener en observación por posibles recaídas.
-5859,1,Amoxicilina,Mastitis,2024-02-04,2024-03-03,7,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Mastitis,2024-02-28,2024-03-28,1,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Ibuprofeno,Mastitis,2024-03-31,2024-04-21,8,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Gripe,2024-02-28,2024-03-22,5,
-5373,1,Paracetamol,Cólico,2024-01-19,2024-02-06,4,
-3732,1,Amoxicilina,Cólico,2024-01-21,2024-01-27,4,"La vaca muestra buen apetito, signo positivo."
-1705,1,Paracetamol,Gripe,2024-02-20,2024-03-18,4,
-8891,1,Paracetamol,Cólico,2024-02-03,2024-02-11,3,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Cólico,2024-01-18,2024-01-29,2,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-16,4,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Mastitis,2024-03-17,2024-04-11,9,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Mastitis,2024-03-27,2024-04-17,2,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Gripe,2024-01-11,2024-02-09,9,
-1705,1,Paracetamol,Mastitis,2024-04-16,2024-04-23,9,"Tratamiento en curso, seguir protocolo."
-7744,1,Amoxicilina,Cólico,2024-01-12,2024-01-27,5,"Tratamiento en curso, seguir protocolo."
-5373,1,Amoxicilina,Gripe,2024-03-05,2024-03-29,7,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Cólico,2024-02-22,2024-02-29,4,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Gripe,2024-02-07,2024-03-07,7,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Cólico,2024-03-14,2024-03-19,6,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Gripe,2024-01-14,2024-01-25,9,"La vaca muestra buen apetito, signo positivo."
-7744,1,Paracetamol,Cólico,2024-03-02,2024-03-20,1,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Mastitis,2024-01-18,2024-01-29,8,"La vaca muestra buen apetito, signo positivo."
-4468,1,Ibuprofeno,Gripe,2024-03-31,2024-04-20,7,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Cólico,2024-04-05,2024-04-15,5,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Cólico,2024-02-25,2024-03-14,9,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Paracetamol,Cólico,2024-03-01,2024-03-15,5,Mantener en observación por posibles recaídas.
-3599,1,Paracetamol,Cólico,2024-03-09,2024-04-06,6,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Mastitis,2024-02-29,2024-03-24,6,Mantener en observación por posibles recaídas.
-4468,1,Paracetamol,Mastitis,2024-02-22,2024-03-20,7,"La vaca muestra buen apetito, signo positivo."
-6874,1,Amoxicilina,Gripe,2024-03-23,2024-04-21,8,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Paracetamol,Gripe,2024-02-13,2024-03-02,4,
-1705,1,Amoxicilina,Cólico,2024-02-17,2024-03-14,9,
-3732,1,Ibuprofeno,Gripe,2024-03-18,2024-04-05,2,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Amoxicilina,Cólico,2024-01-16,2024-01-23,2,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-01-21,2024-02-19,9,
-7744,1,Amoxicilina,Gripe,2024-01-29,2024-02-12,2,"La vaca muestra buen apetito, signo positivo."
-3599,1,Ibuprofeno,Cólico,2024-03-10,2024-03-16,5,
-8891,1,Paracetamol,Mastitis,2024-01-22,2024-02-09,9,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Cólico,2024-02-29,2024-03-25,4,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Ibuprofeno,Mastitis,2024-04-10,2024-04-15,2,
-3732,1,Amoxicilina,Gripe,2024-03-11,2024-03-30,7,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Mastitis,2024-02-11,2024-02-20,5,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Cólico,2024-01-31,2024-02-12,6,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Gripe,2024-03-28,2024-04-18,1,
-7744,1,Amoxicilina,Mastitis,2024-03-02,2024-03-16,8,"La vaca muestra buen apetito, signo positivo."
-4264,1,Paracetamol,Mastitis,2024-01-15,2024-02-01,7,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Cólico,2024-03-16,2024-04-07,7,
-5859,1,Amoxicilina,Gripe,2024-02-25,2024-03-05,8,Mantener en observación por posibles recaídas.
-3599,1,Ibuprofeno,Gripe,2024-02-22,2024-03-14,3,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Mastitis,2024-03-29,2024-04-19,2,Mantener en observación por posibles recaídas.
-3599,1,Paracetamol,Mastitis,2024-02-21,2024-03-13,2,Mantener en observación por posibles recaídas.
-4264,1,Paracetamol,Mastitis,2024-03-26,2024-04-03,6,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Gripe,2024-01-22,2024-02-04,3,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Amoxicilina,Mastitis,2024-02-17,2024-03-15,2,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Mastitis,2024-03-14,2024-03-21,2,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Gripe,2024-02-16,2024-02-21,5,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Gripe,2024-02-23,2024-03-05,1,"Tratamiento en curso, seguir protocolo."
-5373,1,Amoxicilina,Cólico,2024-03-10,2024-04-05,4,
-3599,1,Amoxicilina,Gripe,2024-01-23,2024-02-19,7,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Gripe,2024-01-16,2024-02-07,6,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Cólico,2024-02-29,2024-03-09,6,
-5859,1,Paracetamol,Gripe,2024-03-14,2024-03-23,5,"Tratamiento en curso, seguir protocolo."
-4468,1,Amoxicilina,Cólico,2024-02-16,2024-02-23,8,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Gripe,2024-02-12,2024-02-28,6,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Cólico,2024-02-23,2024-03-09,2,"La vaca muestra buen apetito, signo positivo."
-3599,1,Paracetamol,Mastitis,2024-03-31,2024-04-07,3,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Mastitis,2024-02-25,2024-03-12,3,Mantener en observación por posibles recaídas.
-7744,1,Paracetamol,Mastitis,2024-03-14,2024-03-31,2,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Cólico,2024-03-05,2024-03-30,2,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-18,2,
-8891,1,Ibuprofeno,Gripe,2024-03-31,2024-04-08,5,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Cólico,2024-03-17,2024-04-10,9,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Gripe,2024-03-27,2024-04-07,3,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Amoxicilina,Gripe,2024-01-10,2024-01-25,6,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Gripe,2024-04-16,2024-05-07,8,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Cólico,2024-02-08,2024-02-21,2,
-7744,1,Ibuprofeno,Gripe,2024-03-01,2024-03-11,2,
-6874,1,Paracetamol,Mastitis,2024-03-10,2024-03-30,8,
-3599,1,Amoxicilina,Cólico,2024-02-14,2024-02-24,1,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Mastitis,2024-03-17,2024-04-09,2,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Cólico,2024-01-16,2024-01-21,7,"La vaca muestra buen apetito, signo positivo."
-5859,1,Paracetamol,Gripe,2024-02-09,2024-02-18,9,
-4468,1,Amoxicilina,Mastitis,2024-03-11,2024-03-16,7,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Cólico,2024-04-10,2024-04-20,8,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Gripe,2024-02-10,2024-03-04,8,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Gripe,2024-02-23,2024-03-12,3,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Cólico,2024-03-27,2024-04-20,6,
-6874,1,Amoxicilina,Cólico,2024-03-27,2024-04-03,5,
-7744,1,Paracetamol,Cólico,2024-02-20,2024-03-11,3,"Tratamiento en curso, seguir protocolo."
-5373,1,Ibuprofeno,Cólico,2024-01-18,2024-01-31,2,
-5859,1,Ibuprofeno,Mastitis,2024-02-11,2024-02-25,7,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Cólico,2024-01-16,2024-01-21,4,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Paracetamol,Gripe,2024-03-01,2024-03-12,5,"La vaca muestra buen apetito, signo positivo."
-3732,1,Amoxicilina,Mastitis,2024-03-16,2024-03-21,6,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Amoxicilina,Gripe,2024-03-15,2024-03-29,7,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Gripe,2024-02-19,2024-03-12,4,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Cólico,2024-03-16,2024-03-24,8,"Tratamiento en curso, seguir protocolo."
-1705,1,Paracetamol,Mastitis,2024-03-31,2024-04-10,9,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Cólico,2024-04-08,2024-04-30,5,"La vaca muestra buen apetito, signo positivo."
-3732,1,Amoxicilina,Gripe,2024-03-04,2024-03-27,2,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Cólico,2024-01-22,2024-02-09,5,
-1705,1,Ibuprofeno,Cólico,2024-04-12,2024-04-28,8,
-4264,1,Amoxicilina,Cólico,2024-01-22,2024-01-27,4,
-3732,1,Ibuprofeno,Cólico,2024-04-08,2024-05-04,3,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Cólico,2024-02-12,2024-02-23,8,
-1705,1,Ibuprofeno,Cólico,2024-02-16,2024-03-04,5,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Mastitis,2024-04-12,2024-04-26,5,"La vaca muestra buen apetito, signo positivo."
-8891,1,Ibuprofeno,Cólico,2024-02-09,2024-03-02,9,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Mastitis,2024-04-10,2024-04-27,1,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Cólico,2024-02-23,2024-03-17,8,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Mastitis,2024-03-29,2024-04-09,8,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-02-26,2024-03-17,9,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Paracetamol,Mastitis,2024-03-10,2024-04-06,6,"La vaca muestra buen apetito, signo positivo."
-7744,1,Paracetamol,Mastitis,2024-04-04,2024-04-16,1,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-04-06,2024-04-11,1,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Cólico,2024-01-21,2024-01-31,9,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Cólico,2024-02-23,2024-03-03,8,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Mastitis,2024-02-24,2024-03-07,9,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Cólico,2024-02-02,2024-02-20,3,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Cólico,2024-03-08,2024-03-24,5,"Tratamiento en curso, seguir protocolo."
-3599,1,Ibuprofeno,Gripe,2024-01-13,2024-01-22,7,"La vaca muestra buen apetito, signo positivo."
-5373,1,Paracetamol,Cólico,2024-04-14,2024-04-25,1,"Tratamiento en curso, seguir protocolo."
-7744,1,Paracetamol,Cólico,2024-02-16,2024-02-27,8,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Mastitis,2024-04-15,2024-04-28,9,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Cólico,2024-02-06,2024-02-17,6,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Cólico,2024-04-15,2024-05-06,5,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Mastitis,2024-03-23,2024-03-30,4,"Tratamiento en curso, seguir protocolo."
-1705,1,Paracetamol,Mastitis,2024-03-02,2024-03-23,6,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Mastitis,2024-04-12,2024-04-17,9,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Cólico,2024-04-01,2024-04-30,4,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Cólico,2024-04-09,2024-04-18,8,
-7744,1,Amoxicilina,Cólico,2024-01-27,2024-02-01,7,"La vaca muestra buen apetito, signo positivo."
-3732,1,Amoxicilina,Cólico,2024-01-16,2024-02-07,4,
-3599,1,Paracetamol,Cólico,2024-01-30,2024-02-20,2,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Cólico,2024-02-21,2024-03-05,6,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Mastitis,2024-04-11,2024-05-07,3,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Mastitis,2024-01-31,2024-02-23,7,
-6874,1,Amoxicilina,Cólico,2024-02-21,2024-03-21,9,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Gripe,2024-01-16,2024-02-06,2,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Mastitis,2024-04-14,2024-05-10,6,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Cólico,2024-02-18,2024-03-04,8,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Mastitis,2024-04-13,2024-04-18,7,
-6874,1,Paracetamol,Gripe,2024-04-17,2024-04-30,5,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Mastitis,2024-02-02,2024-02-12,4,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Mastitis,2024-03-10,2024-03-21,9,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Mastitis,2024-04-11,2024-04-26,8,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Mastitis,2024-03-28,2024-04-15,5,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Cólico,2024-02-07,2024-03-03,8,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Gripe,2024-04-01,2024-04-26,8,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Cólico,2024-02-13,2024-03-02,5,"La vaca muestra buen apetito, signo positivo."
-5373,1,Amoxicilina,Mastitis,2024-02-10,2024-02-17,7,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Mastitis,2024-02-08,2024-02-17,3,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Paracetamol,Mastitis,2024-02-16,2024-03-08,8,
-1705,1,Ibuprofeno,Gripe,2024-03-09,2024-03-28,4,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Gripe,2024-02-18,2024-03-18,1,
-6874,1,Ibuprofeno,Cólico,2024-01-28,2024-02-03,8,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Mastitis,2024-01-19,2024-01-31,6,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Gripe,2024-01-14,2024-01-30,8,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Mastitis,2024-03-21,2024-04-08,1,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Amoxicilina,Cólico,2024-02-02,2024-02-11,4,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Cólico,2024-02-13,2024-02-19,2,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Gripe,2024-03-15,2024-04-01,1,
-5859,1,Ibuprofeno,Cólico,2024-03-23,2024-04-13,9,"Tratamiento en curso, seguir protocolo."
-4264,1,Amoxicilina,Gripe,2024-02-25,2024-03-06,3,
-4264,1,Amoxicilina,Mastitis,2024-04-03,2024-04-09,5,"La vaca muestra buen apetito, signo positivo."
-4468,1,Paracetamol,Gripe,2024-02-29,2024-03-13,4,
-6874,1,Ibuprofeno,Cólico,2024-03-14,2024-03-20,6,Mantener en observación por posibles recaídas.
-3732,1,Amoxicilina,Mastitis,2024-03-08,2024-04-04,4,
-5373,1,Ibuprofeno,Cólico,2024-02-27,2024-03-03,5,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Mastitis,2024-02-15,2024-02-20,4,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Mastitis,2024-03-05,2024-03-12,4,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Mastitis,2024-03-10,2024-03-25,8,
-7744,1,Paracetamol,Mastitis,2024-03-29,2024-04-19,7,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Cólico,2024-03-06,2024-04-03,5,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Amoxicilina,Gripe,2024-01-10,2024-01-17,9,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Mastitis,2024-03-27,2024-04-08,9,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Cólico,2024-03-28,2024-04-07,2,
-3599,1,Ibuprofeno,Cólico,2024-01-18,2024-02-05,2,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Cólico,2024-03-13,2024-04-07,6,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Amoxicilina,Gripe,2024-03-21,2024-03-26,1,"La vaca muestra buen apetito, signo positivo."
-3599,1,Ibuprofeno,Cólico,2024-04-14,2024-04-26,5,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Cólico,2024-01-19,2024-02-17,7,Mantener en observación por posibles recaídas.
-7744,1,Paracetamol,Gripe,2024-04-10,2024-04-16,4,"Tratamiento en curso, seguir protocolo."
-3599,1,Ibuprofeno,Cólico,2024-04-13,2024-04-21,3,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Cólico,2024-04-13,2024-04-20,4,
-5373,1,Amoxicilina,Gripe,2024-02-24,2024-03-02,1,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Gripe,2024-04-08,2024-05-04,6,
-8891,1,Ibuprofeno,Gripe,2024-02-09,2024-03-08,1,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Mastitis,2024-03-15,2024-04-06,3,
-6874,1,Ibuprofeno,Gripe,2024-02-28,2024-03-09,3,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Mastitis,2024-02-03,2024-02-11,9,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Mastitis,2024-03-25,2024-04-20,9,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Gripe,2024-02-20,2024-03-02,1,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Mastitis,2024-01-12,2024-02-05,9,Mantener en observación por posibles recaídas.
-4264,1,Paracetamol,Cólico,2024-01-31,2024-02-27,8,
-4468,1,Ibuprofeno,Cólico,2024-03-27,2024-04-24,2,"La vaca muestra buen apetito, signo positivo."
-4264,1,Amoxicilina,Gripe,2024-01-16,2024-02-11,7,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Mastitis,2024-03-25,2024-04-11,7,Mantener en observación por posibles recaídas.
-5373,1,Ibuprofeno,Cólico,2024-04-12,2024-05-09,3,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Mastitis,2024-02-16,2024-03-02,3,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Mastitis,2024-04-15,2024-05-04,2,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Cólico,2024-04-17,2024-05-04,4,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Gripe,2024-04-08,2024-04-22,6,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Mastitis,2024-02-06,2024-02-16,6,"Tratamiento en curso, seguir protocolo."
-4468,1,Ibuprofeno,Cólico,2024-03-19,2024-03-31,3,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Gripe,2024-03-27,2024-04-22,2,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Mastitis,2024-01-28,2024-02-21,7,
-5859,1,Amoxicilina,Mastitis,2024-01-30,2024-02-14,3,
-7744,1,Paracetamol,Mastitis,2024-01-25,2024-02-18,6,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Mastitis,2024-03-11,2024-03-30,2,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Gripe,2024-01-18,2024-02-12,5,"La vaca muestra buen apetito, signo positivo."
-5373,1,Paracetamol,Mastitis,2024-02-01,2024-02-22,4,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Cólico,2024-01-29,2024-02-04,4,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Cólico,2024-01-25,2024-02-18,2,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Cólico,2024-03-30,2024-04-18,6,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Gripe,2024-02-11,2024-02-25,5,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Cólico,2024-04-01,2024-04-18,4,
-3599,1,Ibuprofeno,Mastitis,2024-02-02,2024-02-10,4,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Mastitis,2024-04-08,2024-04-16,8,
-4264,1,Ibuprofeno,Cólico,2024-02-04,2024-02-17,9,
-6874,1,Paracetamol,Gripe,2024-03-18,2024-04-16,5,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Gripe,2024-03-26,2024-04-19,4,Mantener en observación por posibles recaídas.
-3732,1,Amoxicilina,Mastitis,2024-03-28,2024-04-10,3,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Mastitis,2024-01-25,2024-02-12,5,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Cólico,2024-02-09,2024-02-27,6,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Gripe,2024-01-29,2024-02-15,4,"La vaca muestra buen apetito, signo positivo."
-5859,1,Ibuprofeno,Cólico,2024-03-15,2024-04-09,5,"Tratamiento en curso, seguir protocolo."
-1705,1,Amoxicilina,Mastitis,2024-02-13,2024-03-03,5,
-5859,1,Ibuprofeno,Mastitis,2024-04-02,2024-04-23,2,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Amoxicilina,Cólico,2024-01-31,2024-02-18,4,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Amoxicilina,Gripe,2024-04-08,2024-04-19,2,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Mastitis,2024-02-28,2024-03-15,9,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Mastitis,2024-04-07,2024-04-20,3,"La vaca muestra buen apetito, signo positivo."
-1705,1,Paracetamol,Gripe,2024-03-14,2024-03-25,9,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Mastitis,2024-03-09,2024-04-02,2,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Paracetamol,Gripe,2024-02-29,2024-03-19,7,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Gripe,2024-03-04,2024-03-23,2,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Mastitis,2024-04-16,2024-04-29,2,"La vaca muestra buen apetito, signo positivo."
-8891,1,Amoxicilina,Cólico,2024-02-05,2024-02-21,2,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Mastitis,2024-04-17,2024-04-24,5,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Paracetamol,Mastitis,2024-04-06,2024-05-05,5,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Mastitis,2024-03-22,2024-04-11,8,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Mastitis,2024-01-14,2024-02-12,1,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Cólico,2024-03-06,2024-04-04,2,"La vaca muestra buen apetito, signo positivo."
-3599,1,Paracetamol,Cólico,2024-03-29,2024-04-05,8,"Tratamiento en curso, seguir protocolo."
-7744,1,Ibuprofeno,Cólico,2024-01-23,2024-02-02,8,
-8891,1,Amoxicilina,Gripe,2024-04-16,2024-05-01,7,"Tratamiento en curso, seguir protocolo."
-5859,1,Paracetamol,Cólico,2024-02-17,2024-02-28,3,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Gripe,2024-01-26,2024-02-05,3,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Mastitis,2024-01-16,2024-02-14,3,"Tratamiento en curso, seguir protocolo."
-7744,1,Amoxicilina,Cólico,2024-02-15,2024-02-25,8,"La vaca muestra buen apetito, signo positivo."
-5373,1,Amoxicilina,Cólico,2024-04-06,2024-04-25,2,"La vaca muestra buen apetito, signo positivo."
-7744,1,Paracetamol,Cólico,2024-02-28,2024-03-28,7,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Cólico,2024-02-14,2024-02-21,8,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Paracetamol,Cólico,2024-04-08,2024-04-24,7,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Mastitis,2024-03-24,2024-04-14,3,
-5859,1,Amoxicilina,Cólico,2024-02-09,2024-03-03,2,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Gripe,2024-03-22,2024-04-08,9,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-02-25,2024-03-01,4,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Paracetamol,Cólico,2024-02-23,2024-03-01,1,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Gripe,2024-01-23,2024-01-28,9,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Cólico,2024-01-30,2024-02-28,8,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Mastitis,2024-03-19,2024-04-09,3,Mantener en observación por posibles recaídas.
-4264,1,Paracetamol,Gripe,2024-04-16,2024-04-25,4,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Cólico,2024-01-30,2024-02-08,2,Mantener en observación por posibles recaídas.
-7744,1,Amoxicilina,Gripe,2024-04-17,2024-04-25,4,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Cólico,2024-04-02,2024-04-12,6,
-7744,1,Ibuprofeno,Gripe,2024-03-15,2024-04-07,5,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Paracetamol,Mastitis,2024-03-16,2024-03-31,4,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Gripe,2024-02-08,2024-03-04,3,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Gripe,2024-03-18,2024-04-08,7,Mantener en observación por posibles recaídas.
-5859,1,Amoxicilina,Gripe,2024-03-01,2024-03-19,1,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Paracetamol,Gripe,2024-02-19,2024-03-10,9,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Amoxicilina,Cólico,2024-02-04,2024-02-14,1,Mantener en observación por posibles recaídas.
-3599,1,Paracetamol,Mastitis,2024-04-10,2024-04-24,9,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Mastitis,2024-03-18,2024-04-13,5,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Gripe,2024-01-23,2024-02-20,4,
-6874,1,Amoxicilina,Gripe,2024-03-18,2024-04-05,7,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Paracetamol,Mastitis,2024-03-07,2024-04-04,9,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Mastitis,2024-04-09,2024-04-15,5,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Mastitis,2024-02-12,2024-02-28,3,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Ibuprofeno,Mastitis,2024-01-23,2024-01-30,5,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Gripe,2024-04-09,2024-05-08,6,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Mastitis,2024-02-28,2024-03-17,8,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Gripe,2024-02-13,2024-02-25,3,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Gripe,2024-01-17,2024-02-15,4,"Tratamiento en curso, seguir protocolo."
-6874,1,Amoxicilina,Mastitis,2024-02-27,2024-03-04,2,
-7744,1,Amoxicilina,Cólico,2024-02-29,2024-03-08,7,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Gripe,2024-01-19,2024-02-11,2,
-3732,1,Amoxicilina,Mastitis,2024-03-19,2024-04-07,7,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Ibuprofeno,Gripe,2024-02-06,2024-02-19,6,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Cólico,2024-03-22,2024-04-19,1,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Mastitis,2024-01-13,2024-01-19,8,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Gripe,2024-04-03,2024-04-18,8,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Cólico,2024-03-29,2024-04-18,6,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Cólico,2024-04-09,2024-04-29,2,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Gripe,2024-03-09,2024-03-23,1,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Mastitis,2024-03-19,2024-04-06,4,
-3732,1,Paracetamol,Mastitis,2024-03-25,2024-04-05,9,
-3732,1,Ibuprofeno,Gripe,2024-01-31,2024-02-05,4,"Tratamiento en curso, seguir protocolo."
-4468,1,Ibuprofeno,Cólico,2024-03-08,2024-04-06,3,"Tratamiento en curso, seguir protocolo."
-7744,1,Paracetamol,Cólico,2024-04-16,2024-05-11,2,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Cólico,2024-01-19,2024-01-30,2,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Cólico,2024-01-20,2024-02-08,9,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Gripe,2024-03-18,2024-03-29,7,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Cólico,2024-03-07,2024-03-13,2,Mantener en observación por posibles recaídas.
-5373,1,Ibuprofeno,Gripe,2024-01-28,2024-02-16,1,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Mastitis,2024-02-15,2024-03-10,1,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Paracetamol,Mastitis,2024-02-02,2024-02-07,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Cólico,2024-02-06,2024-02-25,9,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Cólico,2024-01-23,2024-02-04,7,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Amoxicilina,Cólico,2024-01-20,2024-02-11,3,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Mastitis,2024-03-11,2024-03-23,9,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Amoxicilina,Gripe,2024-03-05,2024-03-11,2,
-3732,1,Ibuprofeno,Gripe,2024-02-18,2024-02-28,9,
-4468,1,Amoxicilina,Gripe,2024-03-12,2024-03-22,3,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Cólico,2024-03-16,2024-03-27,8,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-02-04,2024-02-22,9,
-3732,1,Paracetamol,Cólico,2024-04-01,2024-04-29,1,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Ibuprofeno,Mastitis,2024-03-13,2024-03-30,2,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Gripe,2024-04-14,2024-04-28,2,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Cólico,2024-03-09,2024-03-27,2,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Gripe,2024-03-11,2024-04-08,3,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Mastitis,2024-04-14,2024-05-13,9,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Amoxicilina,Gripe,2024-03-08,2024-03-22,8,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Gripe,2024-02-19,2024-02-28,7,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Amoxicilina,Mastitis,2024-04-16,2024-04-26,2,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Cólico,2024-04-14,2024-05-13,9,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Cólico,2024-04-06,2024-04-22,2,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Cólico,2024-04-14,2024-05-11,8,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Gripe,2024-02-18,2024-03-18,5,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-04-05,2024-04-15,9,
-4264,1,Paracetamol,Cólico,2024-01-12,2024-01-25,9,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Cólico,2024-03-09,2024-03-22,5,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Gripe,2024-02-27,2024-03-23,1,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Paracetamol,Cólico,2024-04-17,2024-05-13,8,"Tratamiento en curso, seguir protocolo."
-4468,1,Amoxicilina,Cólico,2024-02-23,2024-03-01,3,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Gripe,2024-02-23,2024-03-13,1,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Mastitis,2024-01-21,2024-01-27,7,"La vaca muestra buen apetito, signo positivo."
-7744,1,Ibuprofeno,Gripe,2024-02-06,2024-02-24,9,Mantener en observación por posibles recaídas.
-5859,1,Paracetamol,Cólico,2024-02-18,2024-02-24,6,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Ibuprofeno,Cólico,2024-02-12,2024-02-24,8,"Tratamiento en curso, seguir protocolo."
-3732,1,Paracetamol,Mastitis,2024-01-10,2024-01-27,4,
-5859,1,Ibuprofeno,Mastitis,2024-04-04,2024-04-18,6,"Tratamiento en curso, seguir protocolo."
-4468,1,Ibuprofeno,Gripe,2024-02-21,2024-03-11,1,"Tratamiento en curso, seguir protocolo."
-4468,1,Amoxicilina,Mastitis,2024-03-18,2024-04-04,4,
-5859,1,Ibuprofeno,Cólico,2024-01-23,2024-02-20,1,"Tratamiento en curso, seguir protocolo."
-7744,1,Amoxicilina,Cólico,2024-01-27,2024-02-17,9,"La vaca muestra buen apetito, signo positivo."
-4264,1,Paracetamol,Cólico,2024-03-25,2024-04-21,5,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Cólico,2024-03-13,2024-03-21,9,Mantener en observación por posibles recaídas.
-4468,1,Paracetamol,Mastitis,2024-03-15,2024-03-22,4,Mantener en observación por posibles recaídas.
-3732,1,Paracetamol,Cólico,2024-04-11,2024-04-17,1,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Cólico,2024-03-24,2024-04-15,7,
-5373,1,Amoxicilina,Cólico,2024-03-14,2024-03-30,4,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Gripe,2024-02-20,2024-03-12,4,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Gripe,2024-02-04,2024-03-03,1,
-8891,1,Amoxicilina,Cólico,2024-03-24,2024-04-07,7,Mantener en observación por posibles recaídas.
-1705,1,Ibuprofeno,Mastitis,2024-01-15,2024-02-12,6,Mantener en observación por posibles recaídas.
-3732,1,Amoxicilina,Mastitis,2024-04-12,2024-05-03,3,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Gripe,2024-02-29,2024-03-08,6,"La vaca muestra buen apetito, signo positivo."
-6874,1,Amoxicilina,Gripe,2024-03-23,2024-04-06,2,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Mastitis,2024-02-09,2024-03-07,2,"La vaca muestra buen apetito, signo positivo."
-4264,1,Amoxicilina,Gripe,2024-03-10,2024-03-30,9,
-6874,1,Amoxicilina,Gripe,2024-04-17,2024-05-12,5,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Ibuprofeno,Cólico,2024-02-18,2024-03-18,1,
-7744,1,Amoxicilina,Mastitis,2024-01-30,2024-02-05,9,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Cólico,2024-02-04,2024-02-29,5,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Gripe,2024-02-27,2024-03-24,8,"La vaca muestra buen apetito, signo positivo."
-7744,1,Ibuprofeno,Gripe,2024-03-20,2024-03-29,6,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-04-02,2024-04-19,8,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Gripe,2024-02-11,2024-02-28,5,"Tratamiento en curso, seguir protocolo."
-5373,1,Amoxicilina,Mastitis,2024-03-12,2024-03-19,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Amoxicilina,Mastitis,2024-04-10,2024-05-07,2,
-7744,1,Ibuprofeno,Mastitis,2024-01-27,2024-02-15,2,"Tratamiento en curso, seguir protocolo."
-6874,1,Paracetamol,Mastitis,2024-03-17,2024-04-10,9,"La vaca muestra buen apetito, signo positivo."
-3599,1,Amoxicilina,Cólico,2024-03-05,2024-03-28,1,"La vaca muestra buen apetito, signo positivo."
-1705,1,Amoxicilina,Cólico,2024-03-07,2024-03-14,7,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Cólico,2024-01-29,2024-02-06,6,"La vaca muestra buen apetito, signo positivo."
-8891,1,Ibuprofeno,Gripe,2024-03-20,2024-03-25,7,"La vaca muestra buen apetito, signo positivo."
-1705,1,Paracetamol,Mastitis,2024-02-23,2024-03-15,1,"Tratamiento en curso, seguir protocolo."
-4264,1,Amoxicilina,Mastitis,2024-02-25,2024-03-15,5,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Mastitis,2024-03-06,2024-04-02,7,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Cólico,2024-03-17,2024-04-11,5,
-3732,1,Ibuprofeno,Gripe,2024-01-22,2024-01-30,2,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Gripe,2024-02-20,2024-02-25,1,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Gripe,2024-03-25,2024-04-10,5,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Cólico,2024-02-09,2024-03-01,4,"La vaca muestra buen apetito, signo positivo."
-4468,1,Paracetamol,Mastitis,2024-02-13,2024-03-13,9,
-1705,1,Ibuprofeno,Cólico,2024-03-31,2024-04-13,4,
-3732,1,Ibuprofeno,Mastitis,2024-02-07,2024-02-21,8,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Amoxicilina,Gripe,2024-02-09,2024-02-16,8,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Mastitis,2024-02-02,2024-02-21,4,
-3599,1,Paracetamol,Gripe,2024-01-12,2024-02-06,3,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Gripe,2024-01-28,2024-02-12,5,Mantener en observación por posibles recaídas.
-7744,1,Amoxicilina,Gripe,2024-04-15,2024-04-24,8,"La vaca muestra buen apetito, signo positivo."
-1705,1,Paracetamol,Mastitis,2024-02-03,2024-02-17,8,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Ibuprofeno,Cólico,2024-03-09,2024-03-27,7,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Gripe,2024-03-10,2024-03-26,8,
-3599,1,Paracetamol,Mastitis,2024-02-23,2024-03-07,2,"La vaca muestra buen apetito, signo positivo."
-4264,1,Paracetamol,Gripe,2024-04-17,2024-04-27,1,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Mastitis,2024-04-08,2024-04-21,2,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Cólico,2024-02-02,2024-02-09,9,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Gripe,2024-03-04,2024-03-21,9,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Gripe,2024-02-25,2024-03-23,2,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Gripe,2024-01-27,2024-02-07,8,"Tratamiento en curso, seguir protocolo."
-7744,1,Paracetamol,Cólico,2024-03-01,2024-03-22,5,"La vaca muestra buen apetito, signo positivo."
-4264,1,Amoxicilina,Mastitis,2024-02-08,2024-03-01,2,"La vaca muestra buen apetito, signo positivo."
-4468,1,Ibuprofeno,Gripe,2024-02-29,2024-03-26,9,Mantener en observación por posibles recaídas.
-4468,1,Ibuprofeno,Gripe,2024-03-10,2024-04-03,1,
-3732,1,Paracetamol,Cólico,2024-03-12,2024-03-20,3,
-4468,1,Amoxicilina,Mastitis,2024-04-13,2024-04-22,7,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Cólico,2024-02-02,2024-02-17,5,
-3732,1,Amoxicilina,Cólico,2024-03-09,2024-03-31,6,"Tratamiento en curso, seguir protocolo."
-5373,1,Ibuprofeno,Gripe,2024-01-15,2024-02-07,7,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Mastitis,2024-02-15,2024-02-24,1,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Ibuprofeno,Gripe,2024-03-03,2024-04-01,7,
-6874,1,Ibuprofeno,Gripe,2024-02-02,2024-02-22,5,
-5859,1,Paracetamol,Cólico,2024-03-06,2024-03-28,8,
-1705,1,Paracetamol,Cólico,2024-03-16,2024-04-03,2,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Gripe,2024-04-16,2024-05-10,9,
-7744,1,Amoxicilina,Cólico,2024-03-01,2024-03-22,6,"La vaca muestra buen apetito, signo positivo."
-7744,1,Paracetamol,Cólico,2024-03-14,2024-04-11,9,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Mastitis,2024-03-06,2024-03-19,6,"Tratamiento en curso, seguir protocolo."
-4264,1,Amoxicilina,Gripe,2024-03-06,2024-03-24,6,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Gripe,2024-02-03,2024-02-19,1,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Mastitis,2024-03-06,2024-03-13,8,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Cólico,2024-03-02,2024-03-24,9,"La vaca muestra buen apetito, signo positivo."
-6874,1,Paracetamol,Mastitis,2024-01-29,2024-02-09,6,Mantener en observación por posibles recaídas.
-7744,1,Ibuprofeno,Mastitis,2024-01-18,2024-02-16,1,"La vaca muestra buen apetito, signo positivo."
-8891,1,Amoxicilina,Mastitis,2024-03-08,2024-03-15,8,
-1705,1,Ibuprofeno,Cólico,2024-01-28,2024-02-13,9,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Mastitis,2024-03-05,2024-03-24,7,Mantener en observación por posibles recaídas.
-5373,1,Paracetamol,Gripe,2024-01-16,2024-01-29,1,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Cólico,2024-02-13,2024-03-06,1,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Mastitis,2024-02-14,2024-02-26,5,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Mastitis,2024-03-04,2024-03-18,6,"Tratamiento en curso, seguir protocolo."
-5373,1,Amoxicilina,Mastitis,2024-04-15,2024-05-01,5,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Mastitis,2024-03-26,2024-04-20,2,
-1705,1,Paracetamol,Mastitis,2024-03-24,2024-04-02,4,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Mastitis,2024-03-04,2024-03-19,5,"La vaca muestra buen apetito, signo positivo."
-8891,1,Paracetamol,Gripe,2024-01-25,2024-02-01,7,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Cólico,2024-01-14,2024-02-08,1,Mantener en observación por posibles recaídas.
-5373,1,Ibuprofeno,Gripe,2024-01-31,2024-02-12,5,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Mastitis,2024-04-10,2024-05-04,2,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Mastitis,2024-01-25,2024-02-19,2,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Mastitis,2024-02-24,2024-03-07,2,"La vaca muestra buen apetito, signo positivo."
-6874,1,Amoxicilina,Gripe,2024-02-15,2024-02-20,7,"Tratamiento en curso, seguir protocolo."
-5373,1,Amoxicilina,Mastitis,2024-03-19,2024-03-28,7,"Tratamiento en curso, seguir protocolo."
-3599,1,Ibuprofeno,Gripe,2024-01-24,2024-02-18,2,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Cólico,2024-04-09,2024-05-08,4,
-6874,1,Amoxicilina,Gripe,2024-02-03,2024-02-18,4,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Amoxicilina,Gripe,2024-03-07,2024-04-04,7,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Cólico,2024-03-14,2024-03-27,5,"Tratamiento en curso, seguir protocolo."
-6874,1,Ibuprofeno,Mastitis,2024-03-02,2024-03-19,5,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Ibuprofeno,Gripe,2024-02-16,2024-03-13,2,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Cólico,2024-02-02,2024-02-13,5,Mantener en observación por posibles recaídas.
-5373,1,Amoxicilina,Gripe,2024-02-05,2024-02-12,4,"Tratamiento en curso, seguir protocolo."
-5859,1,Amoxicilina,Gripe,2024-02-22,2024-03-09,6,"Inicio leve, se observa mejoría con el tratamiento."
-5859,1,Ibuprofeno,Cólico,2024-01-23,2024-02-09,5,"Tratamiento en curso, seguir protocolo."
-4264,1,Ibuprofeno,Gripe,2024-02-09,2024-02-29,1,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Cólico,2024-03-01,2024-03-14,2,"Tratamiento en curso, seguir protocolo."
-3732,1,Amoxicilina,Gripe,2024-04-10,2024-04-23,2,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Paracetamol,Mastitis,2024-02-21,2024-03-21,2,"La vaca muestra buen apetito, signo positivo."
-3599,1,Paracetamol,Cólico,2024-01-23,2024-02-10,8,"La vaca muestra buen apetito, signo positivo."
-4264,1,Ibuprofeno,Mastitis,2024-01-22,2024-01-27,9,
-7744,1,Ibuprofeno,Gripe,2024-02-07,2024-02-12,3,
-3599,1,Ibuprofeno,Mastitis,2024-03-29,2024-04-18,6,Mantener en observación por posibles recaídas.
-1705,1,Ibuprofeno,Cólico,2024-03-05,2024-03-27,3,"Tratamiento en curso, seguir protocolo."
-7744,1,Paracetamol,Gripe,2024-02-07,2024-02-24,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Paracetamol,Cólico,2024-01-12,2024-02-02,1,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Gripe,2024-01-22,2024-02-17,8,Mantener en observación por posibles recaídas.
-4468,1,Paracetamol,Mastitis,2024-03-27,2024-04-25,4,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Mastitis,2024-04-06,2024-04-22,5,"Tratamiento en curso, seguir protocolo."
-5859,1,Paracetamol,Cólico,2024-03-05,2024-03-25,2,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Amoxicilina,Cólico,2024-02-10,2024-03-05,7,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Gripe,2024-01-12,2024-01-17,5,
-4468,1,Paracetamol,Cólico,2024-03-19,2024-04-07,7,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Cólico,2024-03-27,2024-04-05,2,"La vaca muestra buen apetito, signo positivo."
-5373,1,Paracetamol,Mastitis,2024-01-27,2024-02-19,9,"Tratamiento en curso, seguir protocolo."
-4468,1,Ibuprofeno,Cólico,2024-02-08,2024-03-01,2,
-7744,1,Ibuprofeno,Cólico,2024-01-17,2024-01-30,1,
-4468,1,Ibuprofeno,Gripe,2024-04-16,2024-04-25,3,
-8891,1,Ibuprofeno,Mastitis,2024-03-15,2024-03-30,2,
-7744,1,Paracetamol,Mastitis,2024-03-08,2024-03-14,9,"Tratamiento en curso, seguir protocolo."
-3599,1,Paracetamol,Gripe,2024-03-05,2024-04-01,6,
-8891,1,Amoxicilina,Mastitis,2024-02-26,2024-03-03,6,
-4468,1,Ibuprofeno,Gripe,2024-01-14,2024-02-02,9,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Amoxicilina,Gripe,2024-01-26,2024-02-18,9,Mantener en observación por posibles recaídas.
-8891,1,Paracetamol,Cólico,2024-02-23,2024-03-02,2,"La vaca muestra buen apetito, signo positivo."
-4468,1,Paracetamol,Cólico,2024-01-29,2024-02-19,6,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Gripe,2024-02-26,2024-03-22,1,"La vaca muestra buen apetito, signo positivo."
-1705,1,Paracetamol,Cólico,2024-03-03,2024-03-13,6,"La vaca muestra buen apetito, signo positivo."
-5373,1,Ibuprofeno,Cólico,2024-01-15,2024-01-23,1,Mantener en observación por posibles recaídas.
-6874,1,Amoxicilina,Mastitis,2024-04-13,2024-05-03,4,"Tratamiento en curso, seguir protocolo."
-8891,1,Ibuprofeno,Mastitis,2024-02-21,2024-03-10,7,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Paracetamol,Cólico,2024-02-29,2024-03-13,6,Mantener en observación por posibles recaídas.
-3599,1,Paracetamol,Gripe,2024-03-28,2024-04-09,1,
-7744,1,Paracetamol,Gripe,2024-04-01,2024-04-17,6,
-5859,1,Amoxicilina,Cólico,2024-02-24,2024-03-08,5,"La vaca muestra buen apetito, signo positivo."
-3599,1,Ibuprofeno,Cólico,2024-01-23,2024-02-05,3,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Gripe,2024-02-11,2024-03-05,9,"La vaca muestra buen apetito, signo positivo."
-6874,1,Paracetamol,Mastitis,2024-03-28,2024-04-07,6,
-4468,1,Ibuprofeno,Mastitis,2024-02-21,2024-03-16,4,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Gripe,2024-03-24,2024-04-21,8,Mantener en observación por posibles recaídas.
-3732,1,Ibuprofeno,Cólico,2024-03-05,2024-03-16,1,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Paracetamol,Mastitis,2024-01-24,2024-02-17,1,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Gripe,2024-02-14,2024-02-24,3,Mantener en observación por posibles recaídas.
-5859,1,Ibuprofeno,Cólico,2024-04-02,2024-04-18,6,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Cólico,2024-01-11,2024-01-31,4,
-3732,1,Paracetamol,Mastitis,2024-03-24,2024-04-10,4,"Inicio leve, se observa mejoría con el tratamiento."
-6874,1,Paracetamol,Cólico,2024-01-20,2024-02-15,3,Mantener en observación por posibles recaídas.
-1705,1,Paracetamol,Gripe,2024-01-17,2024-01-26,2,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Amoxicilina,Gripe,2024-02-16,2024-02-24,3,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Amoxicilina,Gripe,2024-04-14,2024-05-07,3,
-5859,1,Ibuprofeno,Gripe,2024-03-29,2024-04-20,4,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Cólico,2024-04-05,2024-04-22,3,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Amoxicilina,Gripe,2024-03-04,2024-03-31,5,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Mastitis,2024-02-03,2024-02-20,6,Mantener en observación por posibles recaídas.
-4468,1,Amoxicilina,Cólico,2024-04-08,2024-04-13,4,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Cólico,2024-02-14,2024-02-19,2,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Cólico,2024-01-16,2024-01-27,3,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Gripe,2024-03-02,2024-03-10,4,Mantener en observación por posibles recaídas.
-6874,1,Ibuprofeno,Cólico,2024-01-13,2024-01-27,9,
-4264,1,Amoxicilina,Gripe,2024-01-21,2024-02-03,4,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Paracetamol,Gripe,2024-04-04,2024-04-28,2,"La vaca muestra buen apetito, signo positivo."
-4468,1,Amoxicilina,Cólico,2024-02-08,2024-02-16,8,Mantener en observación por posibles recaídas.
-5859,1,Amoxicilina,Cólico,2024-03-03,2024-03-18,2,"Tratamiento en curso, seguir protocolo."
-4264,1,Paracetamol,Gripe,2024-04-10,2024-05-08,1,"La vaca muestra buen apetito, signo positivo."
-3732,1,Ibuprofeno,Cólico,2024-03-07,2024-04-01,2,"La vaca muestra buen apetito, signo positivo."
-4264,1,Paracetamol,Cólico,2024-04-01,2024-04-18,9,"La vaca muestra buen apetito, signo positivo."
-3732,1,Paracetamol,Gripe,2024-02-27,2024-03-11,3,"La vaca muestra buen apetito, signo positivo."
-4264,1,Paracetamol,Gripe,2024-03-09,2024-03-20,1,"Inicio leve, se observa mejoría con el tratamiento."
-4264,1,Ibuprofeno,Cólico,2024-03-13,2024-04-09,7,"Inicio leve, se observa mejoría con el tratamiento."
-7744,1,Amoxicilina,Gripe,2024-03-20,2024-04-01,5,"La vaca muestra buen apetito, signo positivo."
-1705,1,Paracetamol,Gripe,2024-01-27,2024-02-19,2,"Tratamiento en curso, seguir protocolo."
-1705,1,Ibuprofeno,Mastitis,2024-03-11,2024-04-06,8,Mantener en observación por posibles recaídas.
-8891,1,Ibuprofeno,Cólico,2024-04-16,2024-05-06,4,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Cólico,2024-01-27,2024-02-05,2,"La vaca muestra buen apetito, signo positivo."
-3732,1,Amoxicilina,Cólico,2024-03-18,2024-04-03,4,Mantener en observación por posibles recaídas.
-4468,1,Paracetamol,Cólico,2024-03-14,2024-03-30,4,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Ibuprofeno,Cólico,2024-04-14,2024-05-01,3,"La vaca muestra buen apetito, signo positivo."
-7744,1,Amoxicilina,Gripe,2024-03-15,2024-03-20,8,"La vaca muestra buen apetito, signo positivo."
-3732,1,Paracetamol,Cólico,2024-03-05,2024-03-15,4,"La vaca muestra buen apetito, signo positivo."
-6874,1,Ibuprofeno,Cólico,2024-01-19,2024-01-30,2,"La vaca muestra buen apetito, signo positivo."
-8891,1,Ibuprofeno,Mastitis,2024-04-16,2024-05-04,4,Mantener en observación por posibles recaídas.
-8891,1,Amoxicilina,Gripe,2024-01-10,2024-02-06,9,"Inicio leve, se observa mejoría con el tratamiento."
-3599,1,Ibuprofeno,Cólico,2024-02-21,2024-03-21,4,"Tratamiento en curso, seguir protocolo."
-5373,1,Ibuprofeno,Cólico,2024-02-28,2024-03-09,7,Mantener en observación por posibles recaídas.
-3599,1,Amoxicilina,Cólico,2024-03-08,2024-03-31,5,"Tratamiento en curso, seguir protocolo."
-3732,1,Ibuprofeno,Cólico,2024-01-26,2024-02-12,8,"Tratamiento en curso, seguir protocolo."
-7744,1,Ibuprofeno,Gripe,2024-03-07,2024-03-26,6,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Mastitis,2024-02-23,2024-03-02,8,"Inicio leve, se observa mejoría con el tratamiento."
-8891,1,Ibuprofeno,Mastitis,2024-01-23,2024-02-20,3,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Amoxicilina,Cólico,2024-03-01,2024-03-15,3,"Inicio leve, se observa mejoría con el tratamiento."
-3732,1,Ibuprofeno,Mastitis,2024-01-16,2024-02-09,2,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Mastitis,2024-02-12,2024-02-22,4,Mantener en observación por posibles recaídas.
-5859,1,Amoxicilina,Mastitis,2024-03-07,2024-03-13,3,
-3732,1,Ibuprofeno,Mastitis,2024-03-10,2024-03-16,6,Mantener en observación por posibles recaídas.
-5859,1,Amoxicilina,Mastitis,2024-04-05,2024-04-10,8,
-5859,1,Paracetamol,Gripe,2024-01-29,2024-02-23,1,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Gripe,2024-03-20,2024-04-09,7,Mantener en observación por posibles recaídas.
-7744,1,Paracetamol,Gripe,2024-03-23,2024-04-07,7,
-4468,1,Amoxicilina,Mastitis,2024-02-24,2024-03-12,2,"Inicio leve, se observa mejoría con el tratamiento."
-1705,1,Ibuprofeno,Gripe,2024-01-22,2024-02-09,1,"Tratamiento en curso, seguir protocolo."
-3599,1,Amoxicilina,Mastitis,2024-02-14,2024-02-22,7,Mantener en observación por posibles recaídas.
-1705,1,Amoxicilina,Mastitis,2024-01-17,2024-02-10,6,"La vaca muestra buen apetito, signo positivo."
-5859,1,Amoxicilina,Gripe,2024-01-31,2024-02-25,8,"Tratamiento en curso, seguir protocolo."
-5373,1,Paracetamol,Cólico,2024-03-15,2024-03-30,7,"Tratamiento en curso, seguir protocolo."
-4468,1,Paracetamol,Mastitis,2024-01-30,2024-02-23,7,
-4468,1,Paracetamol,Mastitis,2024-04-09,2024-04-23,8,Mantener en observación por posibles recaídas.
-6874,1,Paracetamol,Gripe,2024-02-09,2024-02-19,2,
-4468,1,Paracetamol,Mastitis,2024-03-02,2024-03-20,8,"Tratamiento en curso, seguir protocolo."
-5859,1,Ibuprofeno,Mastitis,2024-01-23,2024-02-05,8,"Inicio leve, se observa mejoría con el tratamiento."
-5373,1,Amoxicilina,Mastitis,2024-03-03,2024-03-25,4,Mantener en observación por posibles recaídas.
-4264,1,Amoxicilina,Gripe,2024-01-16,2024-02-03,9,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Cólico,2024-03-26,2024-04-03,8,Mantener en observación por posibles recaídas.
-4264,1,Ibuprofeno,Cólico,2024-04-03,2024-04-08,8,"Inicio leve, se observa mejoría con el tratamiento."
-4468,1,Ibuprofeno,Gripe,2024-04-17,2024-05-14,2,"Tratamiento en curso, seguir protocolo."
+4468,1,Ibuprofeno,Gripe,2024-04-23,2024-05-20,2,"Tratamiento en curso, seguir protocolo."

@@ -88,7 +88,7 @@ def analizar_dato(gps):
     # Calculamos velocidad media de estos puntos
     velocidad = 0
     for punto in puntos_30_anteriores:
-        velocidad += punto['velocidad_en_m/s']
+        velocidad += punto['velocidad']
     velocidad = velocidad / len(puntos_30_anteriores)
     
     # Suponiendo que gps es un DataFrame y 'velocidad' es una variable previamente calculada
@@ -102,6 +102,15 @@ def analizar_dato(gps):
         añadir_segundos_descansando(numero_pendiente)
     
     return velocidad
+
+def asignar_tipo(velocidad):
+    if 1/30 <= velocidad <= 1/20:
+        return 'pastando'
+    elif velocidad > 1/20:
+        return 'caminando'
+    else:  # velocidad < 1/30
+        return 'descansando'
+
 
 def analizar_dato_gps(gps,gps_anterior,indices_parcela):
     
@@ -242,7 +251,7 @@ def obtener_primer_procesado(df_datos_gps):
         
 
     # Añadir la distancia y velocidad calculada al DataFrame (asumiendo la primera velocidad y distancia como 0)
-    # df_datos_gps['distancia_en_Km'] = [0] + distancias
+    df_datos_gps['distancia_en_Km'] = [0] + distancias
     df_datos_gps['velocidad'] = [0] + velocidades
     
     fuera_parcela = True
@@ -302,11 +311,17 @@ if __name__ == "__main__":
 
 
     # Obtenemos las parcelas
-    df_parcelas = pd.read_csv(path.join(CARPETA_DATOS_CSV,'parcelas.csv'))
-    parcelas_dict = df_parcelas.groupby('id_parcela').apply(
-            lambda x: list(zip(x.latitude, x.longitude))
-        ).to_dict()
-    parcelas = list(parcelas_dict.values())
+    if (parcelas == None):
+        df_parcelas = pd.read_csv(path.join(CARPETA_DATOS_CSV,'parcelas.csv'))
+        parcelas_dict = df_parcelas.groupby('id_parcela').apply(
+                lambda x: list(zip(x.latitude, x.longitude))
+            ).to_dict()
+        parcelas = list(parcelas_dict.values())
+    else:
+        parcelas_dict = {}
+        id_parcelas = [2]
+        for k in range(len(id_parcelas)):
+            parcelas_dict[id_parcelas[k]] = parcelas[k]
 
     # Creamos los poligonos
     for parcela in parcelas:
@@ -322,13 +337,11 @@ if __name__ == "__main__":
     puntos_30_anteriores = [] # Diccionario donde se guarda el id de la vaca y los ultimos 30 puntos anteriores
 
 
-
     # Obtenemso los datos gps sin procesar
     df_datos_gps = pd.read_csv(path.join(CARPETA_DATOS_CSV,'datos.csv'))
     df_datos_gps['fecha'] = pd.to_datetime(df_datos_gps['fecha']) 
     df_datos_gps['fecha'] = df_datos_gps['fecha'].apply(redondear_fecha_hora)           
     df_datos_gps = df_datos_gps.sort_values(by=['Numero_pendiente', 'fecha']) # Los agrupamos por id y fecha
-
     
     
     # linea = data.iloc[len(data)-1]
@@ -349,7 +362,9 @@ if __name__ == "__main__":
     df_datos_gps['velocidad_media_30_anteriors'] = [0] + velocidades_medias
     df_datos_gps['id_parcela'] = [0] + indices_parcela
 
-    columnas = ['Numero_pendiente','latitude','longitude','fecha','id_parcela','fuera_del_recinto','distancia_en_Km','velocidad_en_m/s','pos_promedio_lat','pos_promedio_lon','distancia_a_promedio','vacas_alejadas','velocidad_media_30_anteriors']
+    
+    df_datos_gps['tipo'] = df_datos_gps['velocidad'].apply(asignar_tipo)
+    columnas = ['Numero_pendiente','latitude','longitude','fecha','id_parcela','fuera_del_recinto','distancia_en_Km','velocidad','tipo','pos_promedio_lat','pos_promedio_lon','distancia_a_promedio','vacas_alejadas','velocidad_media_30_anteriors']
     df_datos_gps = df_datos_gps[columnas]
     df_datos_gps.to_csv(path.join(CARPETA_DATOS_CSV,FICHERO_DATOS_DATOS_PROCESADOS),index=False)
     df_anomalias.to_csv(path.join(CARPETA_DATOS_CSV,FICHERO_DATOS_ANOMALIAS))
